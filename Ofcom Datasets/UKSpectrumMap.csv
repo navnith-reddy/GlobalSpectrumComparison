@@ -1,0 +1,88 @@
+Frequency,Sector,Product name
+185 - 190 MHz,Mobile and Wireless broadband,Spectrum Access (EHF)
+412 - 414 MHz,Mobile and Wireless broadband,Spectrum Access Arqiva and Airwave (Uplink)
+422 - 424 MHz,Mobile and Wireless broadband,Spectrum Access Arqiva and Airwave (Downlink)
+703 - 713 MHz,Mobile and Wireless broadband,Spectrum Access Telefonica (Uplink)
+703 - 733 MHz,Mobile and Wireless Broadband,Spectrum Access (700 MHz)
+713 - 723 MHz,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Uplink)
+723 - 733 MHz,Mobile and Wireless broadband,Spectrum Access EE (Uplink)
+738 - 758 MHz,Mobile and Wireless Broadband,Spectrum Access (700 MHz)
+758 - 768 MHz,Mobile and Wireless broadband,Spectrum Access Telefonica (Downlink)
+758 - 788 MHz,Mobile and Wireless Broadband,Spectrum Access (700 MHz)
+778 - 788 MHz,Mobile and Wireless broadband,Spectrum Access EE (Downlink)
+791 - 796 MHz,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Downlink)
+791 - 796 MHz,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Downlink)
+796 - 801 MHz,Mobile and Wireless broadband,Spectrum Access EE (Downlink)
+801 - 811 MHz,Mobile and Wireless broadband,Spectrum Access Vodafone (Downlink)
+811 - 821 MHz,Mobile and Wireless broadband,Spectrum Access Telefonica (Downlink)
+832 - 837 MHz,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Uplink)
+837 - 842 MHz,Mobile and Wireless broadband,Spectrum Access EE (Uplink)
+842 - 852 MHz,Mobile and Wireless broadband,Spectrum Access Vodafone (Uplink)
+852 - 862 MHz,Mobile and Wireless broadband,Spectrum Access Telefonica (Uplink)
+880.1 - 885.1 MHz,Mobile and Wireless broadband,PWN Vodafone (Uplink)
+885.1 - 890.1 MHz,Mobile and Wireless broadband,PWN Telefonica UK (Uplink)
+890.1 - 902.5 MHz,Mobile and Wireless broadband,PWN Vodafone (Uplink)
+902.5 - 914.9 MHz,Mobile and Wireless broadband,PWN Telefonica UK (Uplink)
+925.1 - 930.1 MHz,Mobile and Wireless broadband,PWN Vodafone (Downlink)
+930.1 - 935.1 MHz,Mobile and Wireless broadband,PWN Telefonica UK (Downlink)
+935.1 - 947.5 MHz,Mobile and Wireless broadband,PWN Vodafone (Downlink)
+947.5 - 955.1 MHz,Mobile and Wireless broadband,PWN Vodafone (Downlink)
+1.452 - 1.472 GHz,Mobile and Wireless broadband,Spectrum Access Vodafone
+1.472 - 1.492 GHz,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Uplink)
+1.7101 - 1.7159 GHz,Mobile and Wireless broadband,PWN Telefonica UK (Uplink)
+1.7159 - 1.7217 GHz,Mobile and Wireless broadband,PWN Vodafone (Uplink)
+1.7217 - 1.7317 GHz,Mobile and Wireless broadband,PWN EE (Uplink)
+1.7217 - 1.7317 GHz,Mobile and Wireless broadband,PWN Hutchison 3G (Uplink)
+1.7317 - 1.7367 GHz,Mobile and Wireless broadband,PWN EE (Uplink)
+1.7317 - 1.7367 GHz,Mobile and Wireless broadband,PWN Hutchison 3G (Uplink)
+1.7367 - 1.7817 GHz,Mobile and Wireless broadband,PWN EE (Uplink)
+1.7817 - 1.785 GHz,Mobile and Wireless broadband,Shared Access (Low Power)
+1.7817 - 1.785 GHz,Mobile and Wireless broadband,Shared Access (Medium Power)
+1.785 - 1.805 GHz,Mobile and Wireless broadband,1785-1805 MHz Northern Ireland Award
+1.8051 - 1.8109 GHz,Mobile and Wireless broadband,PWN Telefonica UK (Downlink)
+1.8109 - 1.8167 GHz,Mobile and Wireless broadband,PWN Vodafone (Downlink)
+1.8167 - 1.8267 GHz,Mobile and Wireless broadband,PWN EE (Downlink)
+1.8167 - 1.8267 GHz,Mobile and Wireless broadband,PWN Hutchison 3G (Downlink)
+1.8267 - 1.8317 GHz,Mobile and Wireless broadband,PWN EE (Downlink)
+1.8267 - 1.8317 GHz,Mobile and Wireless broadband,PWN Hutchison 3G (Downlink)
+1.8317 - 1.8767 GHz,Mobile and Wireless broadband,PWN EE (Downlink)
+1.8767 - 1.88 GHz,Mobile and Wireless broadband,Shared Access (Low Power)
+1.8767 - 1.88 GHz,Mobile and Wireless broadband,Shared Access (Medium Power)
+1.8999 - 1.9099 GHz,Mobile and Wireless broadband,Spectrum Access EE
+1.9099 - 1.9149 GHz,Mobile and Wireless broadband,Spectrum Access Telefonica
+1.9149 - 1.92 GHz,Mobile and Wireless broadband,Spectrum Access Hutchison 3G
+1.92 - 1.9349 GHz,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Uplink)
+1.9349 - 1.9449 GHz,Mobile and Wireless broadband,Spectrum Access Telefonica (Uplink)
+1.9449 - 1.9597 GHz,Mobile and Wireless broadband,Spectrum Access Vodafone (Uplink)
+1.9597 - 1.9797 GHz,Mobile and Wireless broadband,Spectrum Access EE (Uplink)
+2.1103 - 2.1249 GHz,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Downlink)
+2.1249 - 2.1349 GHz,Mobile and Wireless broadband,Spectrum Access Telefonica (Downlink)
+2.1349 - 2.1497 GHz,Mobile and Wireless broadband,Spectrum Access Vodafone (Downlink)
+2.1497 - 2.1697 GHz,Mobile and Wireless broadband,Spectrum Access EE (Downlink)
+2.35 - 2.39 GHz,Mobile and Wireless broadband,Spectrum Access Telefonica
+2.39 - 2.4 GHz,Mobile and Wireless broadband,Shared Access (Low Power)
+2.39 - 2.4 GHz,Mobile and Wireless broadband,Shared Access (Medium Power)
+2.5 - 2.52 GHz,Mobile and Wireless broadband,Spectrum Access Vodafone (Uplink)
+2.52 - 2.535 GHz,Mobile and Wireless broadband,Spectrum Access EE (Uplink)
+2.535 - 2.57 GHz,Mobile and Wireless broadband,Spectrum Access EE (Uplink)
+2.57 - 2.595 GHz,Mobile and Wireless broadband,Spectrum Access Vodafone
+2.595 - 2.62 GHz,Mobile and Wireless broadband,Spectrum Access Telefonica
+2.62 - 2.64 GHz,Mobile and Wireless broadband,Spectrum Access Vodafone (Downlink)
+2.64 - 2.655 GHz,Mobile and Wireless broadband,Spectrum Access EE (Downlink)
+2.655 - 2.69 GHz,Mobile and Wireless broadband,Spectrum Access EE (Downlink)
+3.41 - 3.46 GHz,Mobile and Wireless broadband,Spectrum Access Vodafone
+3.46 - 3.48 GHz,Mobile and Wireless broadband,Spectrum Access Hutchison 3G
+3.48 - 3.5 GHz,Mobile and Wireless broadband,Spectrum Access UK Broadband
+3.5 - 3.54 GHz,Mobile and Wireless broadband,Spectrum Access Telefonica
+3.54 - 3.58 GHz,Mobile and Wireless broadband,Spectrum Access EE
+3.58 - 3.6 GHz,Mobile and Wireless broadband,Spectrum Access UK Broadband
+3.6 - 3.68 GHz,Mobile and Wireless broadband,Spectrum Access UK Broadband
+3.68 - 3.72 GHz,Mobile and Wireless broadband,Spectrum Access EE
+3.68 - 3.8 GHz,Mobile and Wireless Broadband,Spectrum Access (3.6-3.8 MHz)
+3.72 - 3.76 GHz,Mobile and Wireless broadband,Spectrum Access Telefonica
+3.72 - 3.76 GHz,Mobile and Wireless broadband,Spectrum Access Vodafone
+3.76 - 3.8 GHz,Mobile and Wireless broadband,Spectrum Access Telefonica
+3.8 - 4.2 GHz,Mobile and Wireless broadband,Shared Access (Low Power)
+3.8 - 4.2 GHz,Mobile and Wireless broadband,Shared Access (Medium Power)
+3.925 - 4.009 GHz,Mobile and Wireless broadband,Spectrum Access UK Broadband
+5.725 - 5.85 GHz,Mobile and Wireless broadband,Fixed Wireless Access (5.8 GHz band)
