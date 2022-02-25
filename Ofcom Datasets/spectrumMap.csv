@@ -1,0 +1,1728 @@
+bands/lf,bands/uf,bands/s,bands/u,bands/v
+8300,11300,Space Science,Met Office,1
+9000,148500,Licence exempt,Metal Detectors,1
+9000,185000,Licence exempt,Inductive Applications,1
+9000,315000,Licence exempt,Active Medical Implants,1
+9000,250000000000,N/A,Non-operational Development,0
+9000,250000000000,N/A,Non-operational Temporary Use,0
+9000,270000000000,N/A,Ultra-Wideband,0
+14000,19950,Public sector,Military,1
+19950,20050,Space Science,Standard Frequency and Time Signal,1
+20050,59750,Public sector,Military,1
+59750,60250,Space Science,Standard Frequency and Time Signal,1
+60250,70000,Public sector,Military,1
+72000,84000,Public sector,Military,1
+86000,90000,Public sector,Military,1
+110000,112000,Public sector,Military,1
+115000,117600,Public sector,Military,1
+117600,126000,Public sector,Military,1
+130000,148500,Public sector,Military,1
+135700,137800,Amateur,Amateur Radio Foundation Licence,1
+135700,137800,Amateur,Amateur Radio Full Licence,1
+135700,137800,Amateur,Amateur Radio Intermediate Licence,1
+148500,283500,Broadcasting,Transmission of National and Local Radio Broadcasting Services (LW),1
+148500,1600000,Licence exempt,Inductive Applications,1
+240000,315000,Licence exempt,Inductive Applications,1
+255000,283500,Aeronautical,Aeronautical Navigation Aid Stations,1
+255000,495000,Public sector,Military,1
+283500,315000,Aeronautical,Aeronautical Navigation Aid Stations,1
+283500,315000,Maritime,Maritime Navigational Aids and Radar,1
+283500,315000,Maritime,Maritime Radio (Suppliers and Demonstration),1
+283750,315000,Maritime,Differential Global Positioning System,1
+300000,30000000,Licence exempt,Active Medical Implants,1
+315000,325000,Aeronautical,Aeronautical Navigation Aid Stations,1
+315000,600000,Licence exempt,Animal Implantable Devices,1
+325000,405000,Aeronautical,Aeronautical Navigation Aid Stations,1
+400000,600000,Licence exempt,Inductive Applications,1
+415000,435000,Aeronautical,Aeronautical Navigation Aid Stations,1
+415000,526500,Maritime,Maritime Radio (Suppliers and Demonstration),1
+415000,526500,Maritime,Ship Radio,1
+435000,495000,Aeronautical,Aeronautical Navigation Aid Stations,1
+435000,495000,Maritime,Differential Global Positioning System,1
+442200,450000,Licence exempt,Non-Specific Short Range Devices,1
+456900,457100,Licence exempt,Devices for locating victims in distress or at risk,1
+457000,457001,Licence exempt,Emergency detection,1
+505000,526500,Aeronautical,Aeronautical Navigation Aid Stations,1
+505000,526500,Maritime,Differential Global Positioning System,1
+505000,526500,Public sector,Military,1
+516000,8516000,Licence exempt,Railway Applications,1
+526500,1605500,Broadcasting,Restricted Radio Services Transmission (Class A - Freely Radiating),1
+526500,1605500,Broadcasting,Transmission of National and Local Radio Broadcasting Services (MW),1
+984000,7484000,Licence exempt,Railway Applications,1
+1600000,3000000,Licence exempt,Inductive Applications,1
+1605000,27500000,Maritime,Ship Radio,1
+1606500,1625000,Public sector,Military,1
+1606500,4000000,Maritime,Maritime Navigational Aids and Radar,1
+1606500,27500000,Maritime,Maritime Radio (Suppliers and Demonstration),1
+1625000,1635000,Maritime,Differential Global Positioning System,1
+1635000,1810000,Public sector,Military,1
+1642000,1782000,Licence exempt,Cordless Telephone Apparatus (CT1; extended CT1; CT2 and DECT),1
+1800000,1810000,Maritime,Differential Global Positioning System,1
+1810000,1830000,Amateur,Amateur Radio Foundation Licence,1
+1810000,2000000,Amateur,Amateur Radio Full Licence,1
+1810000,2000000,Amateur,Amateur Radio Intermediate Licence,1
+1830000,1850000,Amateur,Amateur Radio Foundation Licence,1
+1850000,2000000,Amateur,Amateur Radio Foundation Licence,1
+1850000,2000000,Maritime,Differential Global Positioning System,1
+1850000,2170000,Public sector,Military,1
+2000000,2025000,Maritime,Differential Global Positioning System,1
+2160000,2170000,Maritime,Differential Global Positioning System,1
+2190500,2498000,Public sector,Military,1
+2498000,2501000,Space Science,Standard Frequency and Time Signal,1
+2501000,2502000,,,0
+2501000,2502000,Space Science,Standard Frequency and Time Signal,1
+2502000,2850000,Public sector,Military,1
+2625000,2650000,Maritime,Differential Global Positioning System,1
+2650000,2850000,Maritime,Differential Global Positioning System,1
+2850000,3025000,Aeronautical,Aeronautical Ground Station (High Frequency),1
+2850000,3025000,Aeronautical,Aircraft,1
+3025000,3400000,Public sector,Military,1
+3155000,3200000,Maritime,Differential Global Positioning System,1
+3200000,3230000,Maritime,Differential Global Positioning System,1
+3400000,3500000,Aeronautical,Aeronautical Ground Station (High Frequency),1
+3400000,3500000,Aeronautical,Aircraft,1
+3500000,3800000,Amateur,Amateur Radio Foundation Licence,1
+3500000,3800000,Amateur,Amateur Radio Full Licence,1
+3500000,3800000,Amateur,Amateur Radio Intermediate Licence,1
+3500000,3800000,Maritime,Differential Global Positioning System,1
+3500000,3950000,Public sector,Military,1
+4000000,4650000,Public sector,Military,1
+4650000,4700000,Aeronautical,Aeronautical Ground Station (High Frequency),1
+4650000,4700000,Aeronautical,Aircraft,1
+4700000,4995000,Public sector,Military,1
+4995000,5005000,Space Science,Standard Frequency and Time Signal,1
+5000000,30000000,Licence exempt,Inductive Applications,1
+5003000,5005000,,,0
+5005000,5480000,Public sector,Military,1
+5480000,5680000,Aeronautical,Aeronautical Ground Station (High Frequency),1
+5480000,5680000,Aeronautical,Aircraft,1
+5680000,5900000,Public sector,Military,1
+6200000,6525000,Public sector,Military,1
+6525000,6685000,Aeronautical,Aeronautical Ground Station (High Frequency),1
+6525000,6685000,Aeronautical,Aircraft,1
+6685000,7000000,Public sector,Military,1
+6765000,6795000,Licence exempt,Non-Specific Short Range Devices,1
+7000000,7200000,Amateur,Amateur Radio Foundation Licence,1
+7000000,7200000,Amateur,Amateur Radio Full Licence,1
+7000000,7200000,Amateur,Amateur Radio Intermediate Licence,1
+7300000,23000000,Licence exempt,Railway Applications,1
+7350000,8815000,Public sector,Military,1
+8815000,8965000,Aeronautical,Aeronautical Ground Station (High Frequency),1
+8815000,8965000,Aeronautical,Aircraft,1
+8965000,9400000,Public sector,Military,1
+9900000,9995000,Public sector,Military,1
+9995000,10005000,Space Science,Standard Frequency and Time Signal,1
+10003000,10005000,,,0
+10005000,10100000,Aeronautical,Aeronautical Ground Station (High Frequency),1
+10005000,10100000,Aeronautical,Aircraft,1
+10100000,10150000,Amateur,Amateur Radio Foundation Licence,1
+10100000,10150000,Amateur,Amateur Radio Full Licence,1
+10100000,10150000,Amateur,Amateur Radio Intermediate Licence,1
+10100000,11275000,Public sector,Military,1
+11275000,11400000,Aeronautical,Aeronautical Ground Station (High Frequency),1
+11275000,11400000,Aeronautical,Aircraft,1
+11400000,11600000,Public sector,Military,1
+12230000,13260000,Public sector,Military,1
+12500000,20000000,Licence exempt,Active Medical Implants,1
+12500000,20000000,Licence exempt,Animal Implantable Devices,1
+13260000,13360000,Aeronautical,Aeronautical Ground Station (High Frequency),1
+13260000,13360000,Aeronautical,Aircraft,1
+13360000,13410000,Space Science,Radio Astronomy,1
+13360000,13570000,Public sector,Military,1
+13553000,13567000,Licence exempt,Inductive Applications,1
+13553000,13567000,Licence exempt,Non-Specific Short Range Devices,1
+13553000,13567000,Licence exempt,Radio Frequency Identification (RFID),1
+13870000,14000000,Public sector,Military,1
+14000000,14350000,Amateur,Amateur Radio Foundation Licence,1
+14000000,14350000,Amateur,Amateur Radio Full Licence,1
+14000000,14350000,Amateur,Amateur Radio Intermediate Licence,1
+14250000,14350000,Amateur,Amateur Radio Foundation Licence,1
+14350000,14990000,Public sector,Military,1
+14990000,15010000,Space Science,Standard Frequency and Time Signal,1
+15005000,15010000,,,0
+15010000,15100000,Public sector,Military,1
+15800000,17480000,Public sector,Military,1
+15800000,17480000,Public sector,Military,1
+17900000,17970000,Aeronautical,Aeronautical Ground Station (High Frequency),1
+17900000,17970000,Aeronautical,Aircraft,1
+17970000,18068000,Public sector,Military,1
+18052000,18068000,,,0
+18068000,18168000,Amateur,Amateur Radio Foundation Licence,1
+18068000,18168000,Amateur,Amateur Radio Full Licence,1
+18068000,18168000,Amateur,Amateur Radio Intermediate Licence,1
+18168000,18900000,Public sector,Military,1
+19020000,19990000,Public sector,Military,1
+19990000,19995000,,,0
+19990000,20010000,Space Science,Standard Frequency and Time Signal,1
+20010000,21000000,Public sector,Military,1
+21000000,21450000,Amateur,Amateur Radio Foundation Licence,1
+21000000,21450000,Amateur,Amateur Radio Full Licence,1
+21000000,21450000,Amateur,Amateur Radio Intermediate Licence,1
+21850000,21870000,Public sector,Military,1
+21924000,22000000,Aeronautical,Aeronautical Ground Station (High Frequency),1
+21924000,22000000,Aeronautical,Aircraft,1
+22000000,24890000,Public sector,Military,1
+24890000,24990000,Amateur,Amateur Radio Foundation Licence,1
+24890000,24990000,Amateur,Amateur Radio Full Licence,1
+24890000,24990000,Amateur,Amateur Radio Intermediate Licence,1
+24990000,25010000,Space Science,Standard Frequency and Time Signal,1
+25005000,25010000,,,0
+25010000,25550000,Public sector,Military,1
+25550000,25670000,Space Science,Radio Astronomy,1
+26100000,28000000,Public sector,Military,1
+26225000,26250000,Business Radio,Business Radio (Simple Site),1
+26397500,26422500,Business Radio,Business Radio (Simple Site),1
+26425000,26450000,Business Radio,Business Radio (Simple Site),1
+26450000,26475000,Business Radio,Business Radio (Simple Site),1
+26532500,26557500,Business Radio,Business Radio (Simple Site),1
+26575500,26600500,Business Radio,Business Radio (Simple Site),1
+26603000,26628000,Business Radio,Business Radio (Simple Site),1
+26657000,26682000,Business Radio,Business Radio (Simple Site),1
+26713000,26738000,Business Radio,Business Radio (Simple Site),1
+26803000,26828000,Business Radio,Business Radio (Simple Site),1
+26822500,26847500,Business Radio,Business Radio (Suppliers Light),1
+26852500,26877500,Business Radio,Business Radio (Simple Site),1
+26853000,26878000,Business Radio,Business Radio (Simple Site),1
+26907500,26932500,Business Radio,Business Radio (Suppliers Light),1
+26957000,27283000,Licence exempt,Non-Specific Short Range Devices,1
+26960000,27280000,Licence exempt,Model Control,1
+26960000,27410000,Licence exempt,Citizens Band Radio,1
+27090000,27100000,Licence exempt,Railway Applications,1
+27443750,27456250,Licence exempt,Social Alarms,1
+27596250,27996250,Licence exempt,Citizens Band Radio,1
+28000000,28190000,Amateur,Amateur Radio Intermediate Licence,1
+28000000,29700000,Amateur,Amateur Radio Foundation Licence,1
+28000000,29700000,Amateur,Amateur Radio Full Licence,1
+28000000,29700000,Amateur,Amateur Radio Intermediate Licence,1
+29700000,47000000,Public sector,Military,1
+30000000,37500000,Licence exempt,Active Medical Implants,1
+30005000,30010000,,,0
+30005000,30010000,Space Science,Space Operation Service (satellite identification),1
+31037500,31212500,Licence exempt,Cordless Telephone Apparatus (CT1; extended CT1; CT2 and DECT),1
+34500000,34995000,Licence exempt,Databuoy Telemetry,1
+34918750,34931250,Licence exempt,Social Alarms,1
+34943750,34956250,Licence exempt,Social Alarms,1
+34945000,35305000,Licence exempt,Model Control,1
+34968750,34981250,Licence exempt,Social Alarms,1
+35225000,35500000,Licence exempt,Databuoy Telemetry,1
+36610000,36790000,Licence exempt,Wireless audio/multimedia,1
+37010000,37190000,Licence exempt,Wireless audio/multimedia,1
+37750000,38250000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+39025000,39025001,Licence exempt,Meteor Burst Data Systems,1
+39050000,39050001,Licence exempt,Meteor Burst Data Systems,1
+39937500,40112500,Licence exempt,Cordless Telephone Apparatus (CT1; extended CT1; CT2 and DECT),1
+39986000,40020000,,,0
+40660000,40700000,Licence exempt,Non-Specific Short Range Devices,1
+40660000,41000000,Licence exempt,Model Control,1
+40980000,41015000,,,0
+46000000,47000000,Space Science,Met Office,1
+46400000,46400001,Licence exempt,Meteor Burst Data Systems,1
+46950000,46950001,Licence exempt,Meteor Burst Data Systems,1
+46975000,46975001,Licence exempt,Meteor Burst Data Systems,1
+47400000,47400001,Licence exempt,Vehicle Paging Alarms,1
+47418750,47431250,Licence exempt,Cordless Telephone Apparatus (CT1; extended CT1; CT2 and DECT),1
+47443750,47543750,Licence exempt,Cordless Telephone Apparatus (CT1; extended CT1; CT2 and DECT),1
+47550000,48800000,PMSE,Audio Distribution System,1
+47550000,48800000,PMSE,Programme Making and Special Events (Fixed Site),1
+47550000,48800000,PMSE,Programme Making and Special Events (Link),1
+47550000,48800000,PMSE,Programme Making and Special Events (Low Power),1
+48968800,48981300,Business Radio,Business Radio (Suppliers Light),1
+48981300,48993800,Business Radio,Business Radio (Suppliers Light),1
+48993750,49006250,Business Radio,Business Radio (Simple Site),1
+49000000,49500000,Business Radio,Business Radio (Simple Site),1
+49006250,49018750,Business Radio,Business Radio (Simple Site),1
+49018750,49031250,Business Radio,Business Radio (Simple Site),1
+49031250,49043750,Business Radio,Business Radio (Simple Site),1
+49043750,49056250,Business Radio,Business Radio (Simple Site),1
+49056250,49068750,Business Radio,Business Radio (Simple Site),1
+49068750,49081250,Business Radio,Business Radio (Simple Site),1
+49081250,49093750,Business Radio,Business Radio (Simple Site),1
+49093750,49106250,Business Radio,Business Radio (Simple Site),1
+49106250,49118750,Business Radio,Business Radio (Simple Site),1
+49118750,49131250,Business Radio,Business Radio (Simple Site),1
+49131250,49143750,Business Radio,Business Radio (Simple Site),1
+49143750,49156250,Business Radio,Business Radio (Simple Site),1
+49156250,49168750,Business Radio,Business Radio (Simple Site),1
+49168750,49181250,Business Radio,Business Radio (Simple Site),1
+49181250,49193750,Business Radio,Business Radio (Simple Site),1
+49820000,49980000,Licence exempt,Non-Specific Short Range Devices,1
+50000000,52000000,Amateur,Amateur Radio Foundation Licence,1
+50000000,52000000,Amateur,Amateur Radio Full Licence,1
+50000000,52000000,Amateur,Amateur Radio Intermediate Licence,1
+51000000,52000000,Amateur,Amateur Radio Foundation Licence,1
+51000000,52000000,Public sector,Military,1
+52000000,52950000,PMSE,Audio Distribution System,1
+52000000,52950000,PMSE,Programme Making and Special Events (Fixed Site),1
+52000000,52950000,PMSE,Programme Making and Special Events (Link),1
+52000000,52950000,PMSE,Programme Making and Special Events (Low Power),1
+53750000,55750000,PMSE,Audio Distribution System,1
+53750000,55750000,PMSE,Programme Making and Special Events (Fixed Site),1
+53750000,55750000,PMSE,Programme Making and Special Events (Link),1
+53750000,55750000,PMSE,Programme Making and Special Events (Low Power),1
+55000000,56000000,N/A,Common Base Station Systems,0
+55756250,60593750,Business Radio,Business Radio (Area Defined),1
+55756250,60593750,Business Radio,Business Radio (Technically Assigned),1
+60750000,62750000,PMSE,Audio Distribution System,1
+60750000,62750000,PMSE,Programme Making and Special Events (Fixed Site),1
+60750000,62750000,PMSE,Programme Making and Special Events (Link),1
+60750000,62750000,PMSE,Programme Making and Special Events (Low Power),1
+62756250,67993750,Business Radio,Business Radio (Area Defined),1
+62756250,67993750,Business Radio,Business Radio (Technically Assigned),1
+63500000,64500000,Space Science,Met Office,1
+67750000,67837500,PMSE,Audio Distribution System,1
+67750000,67837500,PMSE,Programme Making and Special Events (Fixed Site),1
+67750000,67837500,PMSE,Programme Making and Special Events (Link),1
+67750000,67837500,PMSE,Programme Making and Special Events (Low Power),1
+68087500,69987500,Business Radio,Business Radio (Area Defined),1
+68087500,69987500,Business Radio,Business Radio (Technically Assigned),1
+68618800,68631300,Business Radio,Business Radio (Suppliers Light),1
+69156250,69181250,PMSE,Audio Distribution System,1
+69156250,69181250,PMSE,Programme Making and Special Events (Fixed Site),1
+69156250,69181250,PMSE,Programme Making and Special Events (Link),1
+69156250,69181250,PMSE,Programme Making and Special Events (Low Power),1
+70000000,70500000,Amateur,Amateur Radio Foundation Licence,1
+70000000,70500000,Amateur,Amateur Radio Full Licence,1
+70000000,70500000,Amateur,Amateur Radio Intermediate Licence,1
+70000000,70500000,Public sector,Military,1
+70500000,72787500,Business Radio,Business Radio (Area Defined),1
+70500000,72787500,Business Radio,Business Radio (Technically Assigned),1
+72368800,72381300,Business Radio,Business Radio (Suppliers Light),1
+72800000,74681250,Public sector,Military,1
+74681250,74718750,PMSE,Audio Distribution System,1
+74681250,74718750,PMSE,Programme Making and Special Events (Fixed Site),1
+74681250,74718750,PMSE,Programme Making and Special Events (Link),1
+74681250,74718750,PMSE,Programme Making and Special Events (Low Power),1
+74718750,76700000,Public sector,Military,1
+74800000,75200000,Aeronautical,Aeronautical Navigation Aid Stations,1
+75262500,75300000,PMSE,Audio Distribution System,1
+75262500,75300000,PMSE,Programme Making and Special Events (Fixed Site),1
+75262500,75300000,PMSE,Programme Making and Special Events (Link),1
+75262500,75300000,PMSE,Programme Making and Special Events (Low Power),1
+76712500,77987500,Business Radio,Business Radio (Area Defined),1
+76712500,77987500,Business Radio,Business Radio (Technically Assigned),1
+76806250,76843750,PMSE,Audio Distribution System,1
+76806250,76843750,PMSE,Programme Making and Special Events (Fixed Site),1
+76806250,76843750,PMSE,Programme Making and Special Events (Link),1
+76806250,76843750,PMSE,Programme Making and Special Events (Low Power),1
+77512500,77550000,Licence exempt,Cordless Telephone Apparatus (CT1; extended CT1; CT2 and DECT),1
+77681250,77693750,Business Radio,Business Radio (Simple UK),1
+78000000,80000000,Public sector,Military,1
+78183750,78258750,PMSE,Audio Distribution System,1
+78183750,78258750,PMSE,Programme Making and Special Events (Fixed Site),1
+78183750,78258750,PMSE,Programme Making and Special Events (Link),1
+78183750,78258750,PMSE,Programme Making and Special Events (Low Power),1
+80000000,83487500,Business Radio,Business Radio (Area Defined),1
+80000000,83487500,Business Radio,Business Radio (Technically Assigned),1
+81000000,87000000,N/A,Common Base Station Systems,0
+82118800,82131300,Business Radio,Business Radio (Suppliers Light),1
+82656250,82681250,PMSE,Audio Distribution System,1
+82656250,82681250,PMSE,Programme Making and Special Events (Fixed Site),1
+82656250,82681250,PMSE,Programme Making and Special Events (Link),1
+82656250,82681250,PMSE,Programme Making and Special Events (Low Power),1
+83500000,85000000,Public sector,Military,1
+85012500,87487500,Business Radio,Business Radio (Area Defined),1
+85012500,87487500,Business Radio,Business Radio (Technically Assigned),1
+85868800,85881300,Business Radio,Business Radio (Suppliers Light),1
+86306250,86318750,Public sector,Business Radio (Police and Fire),1
+86331250,86343750,Business Radio,Business Radio (Simple UK),1
+86343750,86356250,Business Radio,Business Radio (Simple UK),1
+86356250,86368750,Business Radio,Business Radio (Simple UK),1
+86368750,86381250,Business Radio,Business Radio (Simple UK),1
+86668750,86681250,PMSE,Audio Distribution System,1
+86668750,86681250,PMSE,Programme Making and Special Events (Fixed Site),1
+86668750,86681250,PMSE,Programme Making and Special Events (Link),1
+86668750,86681250,PMSE,Programme Making and Special Events (Low Power),1
+86806250,86843750,PMSE,Audio Distribution System,1
+86806250,86843750,PMSE,Programme Making and Special Events (Fixed Site),1
+86806250,86843750,PMSE,Programme Making and Special Events (Link),1
+86806250,86843750,PMSE,Programme Making and Special Events (Low Power),1
+87500000,108000000,Broadcasting,Restricted Radio Services Transmission (Class B - Radiating Cable),1
+87500000,108000000,Broadcasting,Restricted Radio Services Transmission (Class C - Freely Radiating Very Low Power),1
+87500000,108000000,Broadcasting,Transmission of National and Local Radio Broadcasting Services (FM),1
+87500000,108000000,Licence exempt,High Duty Cycle or Continuous Transmission Devices,1
+87500000,108000000,Licence exempt,Wireless audio/multimedia,1
+108000000,112000000,Aeronautical,Aeronautical Navigation Aid Stations,1
+108000000,117975000,Aeronautical,Aeronautical Navigation Aid Stations,1
+108000000,138000000,Public sector,Military,1
+117975000,137000000,Aeronautical,Aeronautical Station (Aeronautical Broadcast),1
+117975000,137000000,Aeronautical,"Aeronautical Station (Air/Ground, AFIS and Tower)",1
+117975000,137000000,Aeronautical,Aeronautical Station (Aircraft Communications Addressing and Reporting System),1
+117975000,137000000,Aeronautical,Aeronautical Station (Approach),1
+117975000,137000000,Aeronautical,Aeronautical Station (Area Control),1
+117975000,137000000,Aeronautical,Aeronautical Station (Offshore),1
+117975000,137000000,Aeronautical,Aeronautical Station (Very High Frequency Data Link),1
+117975000,137000000,Aeronautical,Aircraft,1
+117975000,137000000,N/A,Aeronautical Ground Station (Air Traffic/Ground Movement Control),0
+117975000,137000000,N/A,Aeronautical Ground Station (Air/Ground Communications Services),0
+117975000,137000000,N/A,Aeronautical Ground Station (Airfield Flight Information Service),0
+117975000,137000000,N/A,Aeronautical Ground Station (General Aviation),0
+117975000,137000000,N/A,Aeronautical Ground Station (Offshore Platform),0
+117975000,137000000,N/A,Aeronautical Ground Station (Operations Control),0
+118550000,118800000,Aeronautical,Aeronautical Station (Recreational Aviation),1
+118675000,118675001,N/A,Aeronautical Ground Station (General Aviation) (Hang/Para Gliders),0
+121487500,121512500,Aeronautical,Aircraft,1
+121494000,121506000,Maritime,Maritime Radio (Suppliers and Demonstration),1
+121494000,121506000,Maritime,Ship Portable Radio,1
+121494000,121506000,Maritime,Ship Radio,1
+121587500,121612500,Aeronautical,Aeronautical Ground Station (Fire),1
+121637500,121662500,Maritime,Maritime Radio (Suppliers and Demonstration),1
+122350000,122600000,Aeronautical,Aeronautical Station (Recreational Aviation),1
+122475000,122475001,N/A,Aeronautical Ground Station (General Aviation) (Balloon),0
+123087500,123112500,Aeronautical,Aircraft,1
+123094000,123106000,Maritime,Maritime Radio (Suppliers and Demonstration),1
+123094000,123106000,Maritime,Ship Portable Radio,1
+123094000,123106000,Maritime,Ship Radio,1
+129700000,130250000,Aeronautical,Aeronautical Station (Recreational Aviation),1
+129825000,129825001,N/A,Aeronautical Ground Station (General Aviation) (Microlight),0
+129900000,129900001,N/A,Aeronautical Ground Station (General Aviation) (Glider),0
+129900000,129900001,N/A,Aeronautical Ground Station (General Aviation) (Parachute),0
+129975000,129975001,N/A,Aeronautical Ground Station (General Aviation) (Glider),0
+130100000,130100001,N/A,Aeronautical Ground Station (General Aviation) (Glider),0
+130125000,130125001,N/A,Aeronautical Ground Station (General Aviation) (Glider),0
+130275000,130650000,Aeronautical,Aeronautical Station (Recreational Aviation),1
+130400000,130400001,N/A,Aeronautical Ground Station (General Aviation) (Glider),0
+130525000,130525001,N/A,Aeronautical Ground Station (General Aviation) (Parachute),0
+137000000,137025000,,,0
+137000000,137025000,Space Science,Space Operations Service,1
+137000000,137025000,Space Science,Space Operations Service,1
+137000000,138000000,Satellite,Land Mobile-Satellite Service Stations,1
+137000000,138000000,Satellite,Satellite (Earth Station)(Non-Fixed Satellite Service),1
+137025000,137175000,,,0
+137025000,137175000,Space Science,Space Operations Service,1
+137175000,137825000,,,0
+137175000,137825000,Space Science,Space Operations Service,1
+137825000,138000000,,,0
+137825000,138000000,Space Science,Space Operations Service,1
+137962000,165043000,Maritime,Coastal Station Radio (UK) Area Defined,1
+137962500,165043750,Maritime,Maritime Radio (Suppliers and Demonstration),1
+137975000,138200000,Business Radio,Business Radio (Area Defined),1
+137975000,138200000,Business Radio,Business Radio (Technically Assigned),1
+138000000,141900000,,,0
+138200000,138450000,Licence exempt,Non-Specific Short Range Devices,1
+139518750,140981250,Business Radio,Business Radio (Area Defined),1
+139518750,140981250,Business Radio,Business Radio (Technically Assigned),1
+139543750,139556250,PMSE,Audio Distribution System,1
+139543750,139556250,PMSE,Programme Making and Special Events (Fixed Site),1
+139543750,139556250,PMSE,Programme Making and Special Events (Link),1
+139543750,139556250,PMSE,Programme Making and Special Events (Low Power),1
+139568750,139581250,PMSE,Audio Distribution System,1
+139568750,139581250,PMSE,Programme Making and Special Events (Fixed Site),1
+139568750,139581250,PMSE,Programme Making and Special Events (Link),1
+139568750,139581250,PMSE,Programme Making and Special Events (Low Power),1
+139643750,139668750,PMSE,Audio Distribution System,1
+139643750,139668750,PMSE,Programme Making and Special Events (Fixed Site),1
+139643750,139668750,PMSE,Programme Making and Special Events (Link),1
+139643750,139668750,PMSE,Programme Making and Special Events (Low Power),1
+140987500,141487500,PMSE,Audio Distribution System,1
+140987500,141487500,PMSE,Programme Making and Special Events (Fixed Site),1
+140987500,141487500,PMSE,Programme Making and Special Events (Link),1
+140987500,141487500,PMSE,Programme Making and Special Events (Low Power),1
+141900000,143000000,,,0
+141900000,143000000,Public sector,Military,1
+143000000,144000000,Business Radio,Business Radio (Technically Assigned),1
+144000000,146000000,Amateur,Amateur Radio Foundation Licence,1
+144000000,146000000,Amateur,Amateur Radio Full Licence,1
+144000000,146000000,Amateur,Amateur Radio Intermediate Licence,1
+146000000,147000000,Amateur,Amateur Radio Full Licence,1
+146000000,148000000,Public sector,Business Radio (Police and Fire),1
+148018750,148981250,Business Radio,Business Radio (Area Defined),1
+148018750,148981250,Business Radio,Business Radio (Technically Assigned),1
+148562500,148587500,PMSE,Audio Distribution System,1
+148562500,148587500,PMSE,Programme Making and Special Events (Fixed Site),1
+148562500,148587500,PMSE,Programme Making and Special Events (Link),1
+148562500,148587500,PMSE,Programme Making and Special Events (Low Power),1
+148712500,148737500,PMSE,Audio Distribution System,1
+148712500,148737500,PMSE,Programme Making and Special Events (Fixed Site),1
+148712500,148737500,PMSE,Programme Making and Special Events (Link),1
+148712500,148737500,PMSE,Programme Making and Special Events (Low Power),1
+149000000,149900000,Public sector,Military,1
+149000000,149900000,Satellite,Satellite (Earth Station)(Non-Fixed Satellite Service),1
+149000000,150000000,Satellite,Land Mobile-Satellite Service Stations,1
+149900000,150050000,Space Science,Radio Navigation Satellite Service,1
+150000000,4000000000,N/A,Ground Probing Radar,0
+150050000,152000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+153025000,153475000,Business Radio,Business Radio (Area Defined),1
+153025000,153475000,Business Radio,Business Radio (Technically Assigned),1
+153037500,153062500,Public sector,Business Radio (Police and Fire),1
+153500000,154000000,Public sector,Military,1
+154000000,155000000,Business Radio,Business Radio (Technically Assigned),1
+155343750,155356250,Public sector,Business Radio (Police and Fire),1
+156000000,157500000,Maritime,Coastal Station Radio (International),1
+156000000,157500000,Maritime,Coastal Station Radio (International) Area Defined,1
+156000000,157500000,Maritime,Ship Portable Radio,1
+156000000,157500000,Maritime,Ship Radio,1
+156000000,165043000,Maritime,Coastal Station Radio (Training School),1
+156512500,156537500,Maritime,AIS (Automatic Identification Systems),1
+157012500,157037500,Maritime,Coastal Station Radio (Marina),1
+157205000,165037500,Business Radio,Business Radio (Area Defined),1
+157205000,165037500,Business Radio,Business Radio (Technically Assigned),1
+157450000,158500000,Maritime,Coastal Station Radio (UK),1
+157450000,158500000,Maritime,Coastal Station Radio (UK) Area Defined,1
+157837500,157862500,Maritime,Coastal Station Radio (Marina),1
+158000000,165000000,N/A,Public Mobile Data Systems,0
+158781300,158793800,Business Radio,Business Radio (Suppliers Light),1
+159181300,159193800,Business Radio,Business Radio (Suppliers Light),1
+159243800,159256300,Business Radio,Business Radio (Suppliers Light),1
+159343800,159356300,Business Radio,Business Radio (Suppliers Light),1
+159393800,159406300,Business Radio,Business Radio (Suppliers Light),1
+159418800,159431300,Business Radio,Business Radio (Suppliers Light),1
+159443800,159456300,Business Radio,Business Radio (Suppliers Light),1
+159481300,159493800,Business Radio,Business Radio (Suppliers Light),1
+159493800,159506300,Business Radio,Business Radio (Suppliers Light),1
+159581300,159593800,Business Radio,Business Radio (Suppliers Light),1
+159600000,164500000,Business Radio,Business Radio (Simple Site),1
+159618800,159631300,Business Radio,Business Radio (Suppliers Light),1
+159681300,159693800,Business Radio,Business Radio (Suppliers Light),1
+160600000,160975000,Maritime,Coastal Station Radio (International),1
+160600000,160975000,Maritime,Coastal Station Radio (International) Area Defined,1
+160600000,160975000,Maritime,Ship Portable Radio,1
+160600000,160975000,Maritime,Ship Radio,1
+160975000,161500000,Maritime,Coastal Station Radio (UK),1
+161268750,161281250,Licence exempt,General Alarms Associated with Marine Applications including Fixed Shore Installations,1
+161412500,161437500,Maritime,Coastal Station Radio (Marina),1
+161475000,161975000,Maritime,Coastal Station Radio (International),1
+161475000,161975000,Maritime,Coastal Station Radio (International) Area Defined,1
+161475000,161975000,Maritime,Ship Portable Radio,1
+161475000,161975000,Maritime,Ship Radio,1
+161612500,161637500,Maritime,Coastal Station Radio (Marina),1
+161962500,161987500,Maritime,AIS (Automatic Identification Systems),1
+162000000,163050000,Maritime,Coastal Station Radio (UK),1
+162000000,163050000,Maritime,Coastal Station Radio (UK) Area Defined,1
+162000000,167000000,N/A,Common Base Station Systems,0
+162012500,162037500,Maritime,AIS (Automatic Identification Systems),1
+162437000,162465000,Maritime,Differential Global Positioning System,1
+162437500,162462500,Maritime,Maritime Navigational Aids and Radar,1
+162437500,162462500,Maritime,Maritime Radio (Suppliers and Demonstration),1
+163012000,163320000,Maritime,Differential Global Positioning System,1
+163012500,163031250,Maritime,Maritime Navigational Aids and Radar,1
+163012500,163031250,Maritime,Maritime Radio (Suppliers and Demonstration),1
+163281300,163293800,Business Radio,Business Radio (Suppliers Light),1
+163681300,163693800,Business Radio,Business Radio (Suppliers Light),1
+163743800,163756300,Business Radio,Business Radio (Suppliers Light),1
+163843800,163856300,Business Radio,Business Radio (Suppliers Light),1
+163893800,163906300,Business Radio,Business Radio (Suppliers Light),1
+163918800,163931300,Business Radio,Business Radio (Suppliers Light),1
+163943800,163956300,Business Radio,Business Radio (Suppliers Light),1
+163981300,163993800,Business Radio,Business Radio (Suppliers Light),1
+163993800,164006300,Business Radio,Business Radio (Suppliers Light),1
+164043750,164056250,Business Radio,Business Radio (Simple UK),1
+164056250,164068750,Business Radio,Business Radio (Simple UK),1
+164081300,164093800,Business Radio,Business Radio (Suppliers Light),1
+164118800,164131300,Business Radio,Business Radio (Suppliers Light),1
+164181300,164193800,Business Radio,Business Radio (Suppliers Light),1
+164400000,169800000,N/A,Public Two-way Paging Systems,0
+165050000,173087500,Business Radio,Business Radio (Area Defined),1
+165050000,173087500,Business Radio,Business Radio (Technically Assigned),1
+167193800,167206300,Business Radio,Business Radio (Suppliers Light),1
+169006300,169018800,Business Radio,Business Radio (Suppliers Light),1
+169081250,169093750,Business Radio,Business Radio (Simple UK),1
+169131300,169143800,Business Radio,Business Radio (Suppliers Light),1
+169156300,169168800,Business Radio,Business Radio (Suppliers Light),1
+169181300,169193800,Business Radio,Business Radio (Suppliers Light),1
+169306250,169318750,Business Radio,Business Radio (Simple UK),1
+169400000,169475000,Licence exempt,Assistive Listening Devices,1
+169400000,169475000,Licence exempt,Industrial/Commercial Telemetry and Tele-command,1
+169400000,169475000,Licence exempt,Metering device,1
+169400000,169812500,Licence exempt,Non-Specific Short Range Devices,1
+169400000,169812500,N/A,CDMA Spread Spectrum Data Asset Tracking Systems,0
+169475000,169487500,Licence exempt,Social Alarms,1
+169487500,169587500,Licence exempt,Assistive Listening Devices,1
+169487500,169587500,Licence exempt,Non-Specific Short Range Devices,1
+169587500,169600000,Licence exempt,Social Alarms,1
+169587500,169812500,Licence exempt,Non-Specific Short Range Devices,1
+171000000,191000000,N/A,Common Base Station Systems,0
+171993800,172006300,Business Radio,Business Radio (Suppliers Light),1
+173043750,173056250,Business Radio,Business Radio (Simple UK),1
+173056250,173068750,Business Radio,Business Radio (Simple UK),1
+173081250,173093750,Business Radio,Business Radio (Simple UK),1
+173181250,173193750,Licence exempt,"Mobile, Transportable and Lone worker Safety Alarms",1
+173200000,173350000,Licence exempt,Industrial/Commercial Telemetry and Tele-command,1
+173200000,173350000,Licence exempt,Non-Specific Short Range Devices,1
+173212500,173237500,Licence exempt,Fixed Alarms,1
+173325000,175075000,Licence exempt,Assistive Listening Devices,1
+173587500,173600000,Licence exempt,Non-Specific Short Range Devices,1
+173700000,174000000,Licence exempt,Medical and Biological Applications,1
+173700000,175100000,Licence exempt,Railway Applications,1
+173987500,174000000,Public sector,Business Radio (Police and Fire),1
+174000000,208000000,N/A,Public Access Mobile Radio Systems,0
+174000000,225000000,N/A,Public Mobile Data Systems,0
+175150000,175350000,PMSE,Audio Distribution System,1
+175150000,175350000,PMSE,Programme Making and Special Events (Fixed Site),1
+175150000,175350000,PMSE,Programme Making and Special Events (Link),1
+175150000,175350000,PMSE,Programme Making and Special Events (Low Power),1
+175150000,175350000,PMSE,UK Wireless Microphone (Annual),1
+175425000,175625000,PMSE,Audio Distribution System,1
+175425000,175625000,PMSE,Programme Making and Special Events (Fixed Site),1
+175425000,175625000,PMSE,Programme Making and Special Events (Link),1
+175425000,175625000,PMSE,Programme Making and Special Events (Low Power),1
+175425000,175625000,PMSE,UK Wireless Microphone (Annual),1
+176300000,176500000,PMSE,Audio Distribution System,1
+176300000,176500000,PMSE,Programme Making and Special Events (Fixed Site),1
+176300000,176500000,PMSE,Programme Making and Special Events (Link),1
+176300000,176500000,PMSE,Programme Making and Special Events (Low Power),1
+176500000,176700000,PMSE,UK Wireless Microphone (Annual),1
+176500000,176900000,PMSE,Audio Distribution System,1
+176500000,176900000,PMSE,Programme Making and Special Events (Fixed Site),1
+176500000,176900000,PMSE,Programme Making and Special Events (Link),1
+176500000,176900000,PMSE,Programme Making and Special Events (Low Power),1
+176900000,177100000,PMSE,Audio Distribution System,1
+176900000,177100000,PMSE,Programme Making and Special Events (Fixed Site),1
+176900000,177100000,PMSE,Programme Making and Special Events (Link),1
+176900000,177100000,PMSE,Programme Making and Special Events (Low Power),1
+177000000,191000000,N/A,CDMA Spread Spectrum Data Asset Tracking Systems,0
+177512500,184487500,Business Radio,Business Radio (Area Defined),1
+177512500,184487500,Business Radio,Business Radio (Technically Assigned),1
+181693750,181806250,PMSE,Audio Distribution System,1
+181693750,181806250,PMSE,Programme Making and Special Events (Fixed Site),1
+181693750,181806250,PMSE,Programme Making and Special Events (Link),1
+181693750,181806250,PMSE,Programme Making and Special Events (Low Power),1
+184500000,185100000,PMSE,Audio Distribution System,1
+184500000,185100000,PMSE,Programme Making and Special Events (Fixed Site),1
+184500000,185100000,PMSE,Programme Making and Special Events (Link),1
+184500000,185100000,PMSE,Programme Making and Special Events (Low Power),1
+185000000,190000000,Mobile and Wireless broadband,Spectrum Access (EHF),1
+185212500,191487500,Business Radio,Business Radio (Area Defined),1
+185212500,191487500,Business Radio,Business Radio (Technically Assigned),1
+189693750,189806250,PMSE,Audio Distribution System,1
+189693750,189806250,PMSE,Programme Making and Special Events (Fixed Site),1
+189693750,189806250,PMSE,Programme Making and Special Events (Link),1
+189693750,189806250,PMSE,Programme Making and Special Events (Low Power),1
+191600000,191800000,PMSE,Audio Distribution System,1
+191600000,191800000,PMSE,Programme Making and Special Events (Fixed Site),1
+191600000,191800000,PMSE,Programme Making and Special Events (Link),1
+191600000,191800000,PMSE,Programme Making and Special Events (Low Power),1
+191800000,192000000,PMSE,Audio Distribution System,1
+191800000,192000000,PMSE,Programme Making and Special Events (Fixed Site),1
+191800000,192000000,PMSE,Programme Making and Special Events (Link),1
+191800000,192000000,PMSE,Programme Making and Special Events (Low Power),1
+191800000,192000000,PMSE,UK Wireless Microphone (Annual),1
+192000000,193100000,PMSE,Audio Distribution System,1
+192000000,193100000,PMSE,Programme Making and Special Events (Fixed Site),1
+192000000,193100000,PMSE,Programme Making and Special Events (Link),1
+192000000,193100000,PMSE,Programme Making and Special Events (Low Power),1
+192700000,193100000,PMSE,UK Wireless Microphone (Annual),1
+192900000,193100000,PMSE,UK Wireless Microphone (Annual),1
+193212500,199487500,Business Radio,Business Radio (Technically Assigned),1
+199600000,199800000,PMSE,UK Wireless Microphone (Annual),1
+199600000,200200000,PMSE,Audio Distribution System,1
+199600000,200200000,PMSE,Programme Making and Special Events (Fixed Site),1
+199600000,200200000,PMSE,Programme Making and Special Events (Link),1
+199600000,200200000,PMSE,Programme Making and Special Events (Low Power),1
+200000000,201100000,PMSE,Audio Distribution System,1
+200000000,201100000,PMSE,Programme Making and Special Events (Fixed Site),1
+200200000,200400000,PMSE,UK Wireless Microphone (Annual),1
+200200000,200500000,PMSE,Programme Making and Special Events (Low Power),1
+200200000,201100000,PMSE,Programme Making and Special Events (Link),1
+200500000,200700000,PMSE,UK Wireless Microphone (Annual),1
+201212500,207487500,Business Radio,Business Radio (Technically Assigned),1
+207600000,210200000,PMSE,Audio Distribution System,1
+207600000,210200000,PMSE,Programme Making and Special Events (Fixed Site),1
+207600000,210200000,PMSE,Programme Making and Special Events (Link),1
+207600000,210200000,PMSE,Programme Making and Special Events (Low Power),1
+208200000,208400000,PMSE,UK Wireless Microphone (Annual),1
+208500000,208700000,PMSE,UK Wireless Microphone (Annual),1
+208900000,209100000,PMSE,UK Wireless Microphone (Annual),1
+209000000,215000000,N/A,Common Base Station Systems,0
+209100000,209300000,PMSE,UK Wireless Microphone (Annual),1
+209500000,209700000,PMSE,UK Wireless Microphone (Annual),1
+209700000,209900000,PMSE,UK Wireless Microphone (Annual),1
+210792000,230000000,Broadcasting,Transmission of National and Local Radio Broadcasting Services (T-DAB),1
+216000000,225000000,Public sector,Military,1
+230000000,399900000,Public sector,Military,1
+232000000,236000000,Space Science,Radio Astronomy,1
+242987500,243012500,Aeronautical,Aircraft,1
+242994000,243006000,Maritime,Maritime Radio (Suppliers and Demonstration),1
+242994000,243006000,Maritime,Ship Portable Radio,1
+242994000,243006000,Maritime,Ship Radio,1
+326500000,328500000,Space Science,Radio Astronomy,1
+328600000,335400000,Aeronautical,Aeronautical Navigation Aid Stations,1
+380000000,385000000,Public sector,Business Radio (Public Safety),1
+390000000,395000000,Public sector,Business Radio (Public Safety),1
+399900000,400050000,Space Science,Radio Navigation Satellite Service,1
+400050000,400150000,Space Science,Standard Frequency and Time Signal,1
+400150000,401000000,,,0
+400150000,401000000,Space Science,Space Operations Service,1
+400150000,406000000,Public sector,Military,1
+401000000,402000000,Licence exempt,Active Medical Implants,1
+401000000,406000000,Space Science,Met Office,1
+401000000,406000000,Space Science,Space Operations Service,1
+402000000,405000000,Licence exempt,Active Medical Implants,1
+405000000,406000000,Licence exempt,Active Medical Implants,1
+406000000,406100000,Licence exempt,Personal Locator Beacon,1
+406000000,406100000,Maritime,Maritime Radio (Suppliers and Demonstration),1
+406000000,406100000,Maritime,Ship Portable Radio,1
+406000000,406100000,Maritime,Ship Radio,1
+406100000,410000000,Business Radio,Converted Spectrum Access,1
+406100000,410000000,Public sector,Crown Recognised Spectrum Access,1
+406100000,410000000,Public sector,Military,1
+406100000,410000000,Space Science,Radio Astronomy,1
+410000000,412000000,Business Radio,Converted Spectrum Access,1
+410000000,412000000,Public sector,Crown Recognised Spectrum Access,1
+410000000,420000000,,,0
+410000000,430000000,N/A,Public Access Mobile Radio Systems,0
+412000000,414000000,Mobile and Wireless broadband,Spectrum Access Arqiva and Airwave (Uplink),1
+412000000,414000000,N/A,Spectrum Access (412-414 and 422-424 MHz),0
+414000000,420000000,Business Radio,Converted Spectrum Access,1
+414000000,420000000,Public sector,Crown Recognised Spectrum Access,1
+414000000,420000000,Public sector,Military,1
+420000000,422000000,Business Radio,Converted Spectrum Access,1
+420000000,422000000,Public sector,Crown Recognised Spectrum Access,1
+422000000,424000000,Mobile and Wireless broadband,Spectrum Access Arqiva and Airwave (Downlink),1
+422000000,424000000,N/A,Spectrum Access (412-414 and 422-424 MHz),0
+424000000,425000000,Business Radio,Converted Spectrum Access,1
+424000000,425000000,Public sector,Crown Recognised Spectrum Access,1
+424000000,450000000,Public sector,Military,1
+425000000,450000000,N/A,Public Mobile Data Systems,0
+425012500,429475000,Business Radio,Business Radio (Area Defined),1
+425012500,429475000,Business Radio,Business Radio (Technically Assigned),1
+425312500,425562500,PMSE,Audio Distribution System,1
+425312500,425562500,PMSE,Programme Making and Special Events (Fixed Site),1
+425312500,425562500,PMSE,Programme Making and Special Events (Link),1
+425312500,425562500,PMSE,Programme Making and Special Events (Low Power),1
+427762500,428012500,PMSE,Audio Distribution System,1
+427762500,428012500,PMSE,Programme Making and Special Events (Fixed Site),1
+427762500,428012500,PMSE,Programme Making and Special Events (Link),1
+427762500,428012500,PMSE,Programme Making and Special Events (Low Power),1
+429000000,430000000,Business Radio,Converted Spectrum Access,1
+429000000,430000000,Public sector,Crown Recognised Spectrum Access,1
+430000000,440000000,,,0
+430000000,440000000,Amateur,Amateur Radio Foundation Licence,1
+430000000,440000000,Amateur,Amateur Radio Full Licence,1
+430000000,440000000,Amateur,Amateur Radio Intermediate Licence,1
+431006250,431993750,Business Radio,Business Radio (Area Defined),1
+431006250,431993750,Business Radio,Business Radio (Technically Assigned),1
+433050000,434790000,Licence exempt,Model Control,1
+433050000,434790000,Licence exempt,Non-Specific Short Range Devices,1
+440000000,449000000,N/A,Common Base Station Systems,0
+440012500,443975000,Business Radio,Business Radio (Area Defined),1
+440012500,443975000,Business Radio,Business Radio (Technically Assigned),1
+442262500,442512500,PMSE,Audio Distribution System,1
+442262500,442512500,PMSE,Programme Making and Special Events (Fixed Site),1
+442262500,442512500,PMSE,Programme Making and Special Events (Link),1
+442262500,442512500,PMSE,Programme Making and Special Events (Low Power),1
+445512500,449725000,Business Radio,Business Radio (Area Defined),1
+445512500,449725000,Business Radio,Business Radio (Technically Assigned),1
+446000000,446100000,Licence exempt,PMR 446,1
+446100000,446200000,Licence exempt,Digital PMR 446,1
+446425000,447512500,PMSE,Audio Distribution System,1
+446425000,447512500,PMSE,Programme Making and Special Events (Fixed Site),1
+446425000,447512500,PMSE,Programme Making and Special Events (Link),1
+446425000,447512500,PMSE,Programme Making and Special Events (Low Power),1
+449306250,449318750,Business Radio,Business Radio (Simple UK),1
+449393750,449406250,Business Radio,Business Radio (Simple UK),1
+449468750,449481250,Business Radio,Business Radio (Simple UK),1
+450000000,453000000,Public sector,Business Radio (Police and Fire),1
+450000000,470000000,N/A,Public Mobile Data Systems,0
+451506250,451781250,Business Radio,Business Radio (Simple Site),1
+451506250,458781250,Business Radio,Business Radio (Simple Site),1
+453012500,454987500,Business Radio,Business Radio (Area Defined),1
+453012500,454987500,Business Radio,Business Radio (Technically Assigned),1
+453681300,453693800,Business Radio,Business Radio (Suppliers Light),1
+454412500,454437500,Business Radio,Business Radio (Suppliers Light),1
+454987500,455475000,PMSE,Audio Distribution System,1
+454987500,455475000,PMSE,Programme Making and Special Events (Fixed Site),1
+454987500,455475000,PMSE,Programme Making and Special Events (Link),1
+454987500,455475000,PMSE,Programme Making and Special Events (Low Power),1
+455475000,455850000,Business Radio,Business Radio (Area Defined),1
+455475000,455850000,Business Radio,Business Radio (Technically Assigned),1
+455875000,456000000,Public sector,Business Radio (Police and Fire),1
+456006300,456018800,Business Radio,Business Radio (Suppliers Light),1
+456331300,456343800,Business Radio,Business Radio (Suppliers Light),1
+456381300,456393800,Business Radio,Business Radio (Suppliers Light),1
+456456300,456468800,Business Radio,Business Radio (Suppliers Light),1
+456518750,456531250,Maritime,Ship Radio,1
+456556300,456568800,Business Radio,Business Radio (Suppliers Light),1
+456681300,456693800,Business Radio,Business Radio (Suppliers Light),1
+456856300,456868800,Business Radio,Business Radio (Suppliers Light),1
+456900000,457100000,Licence exempt,Non-Specific Short Range Devices,1
+456918800,456931300,Business Radio,Business Radio (Suppliers Light),1
+456956300,456968800,Business Radio,Business Radio (Suppliers Light),1
+456981300,456993800,Business Radio,Business Radio (Suppliers Light),1
+457000000,457250000,Public sector,Business Radio (Police and Fire),1
+457250000,457475000,PMSE,Audio Distribution System,1
+457250000,457475000,PMSE,Programme Making and Special Events (Fixed Site),1
+457250000,457475000,PMSE,Programme Making and Special Events (Link),1
+457250000,457475000,PMSE,Programme Making and Special Events (Low Power),1
+457475000,457500000,Public sector,Business Radio (Police and Fire),1
+457500000,458500000,Fixed Links,Scanning Telemetry (National),1
+457500000,458500000,Fixed Links,Scanning Telemetry (Shared),1
+457512500,457537500,Aeronautical,Aircraft,1
+457518800,457531250,Maritime,Maritime Radio (Suppliers and Demonstration),1
+457518800,457531300,Maritime,Ship Radio,1
+457531300,457543750,Maritime,Maritime Radio (Suppliers and Demonstration),1
+457531300,457543750,Maritime,Ship Radio,1
+457531300,457543800,Aeronautical,Aircraft,1
+457537500,457562500,Aeronautical,Aircraft,1
+457543800,457556250,Maritime,Maritime Radio (Suppliers and Demonstration),1
+457543800,457556250,Maritime,Ship Radio,1
+457556300,457568750,Maritime,Maritime Radio (Suppliers and Demonstration),1
+457556300,457568750,Maritime,Ship Radio,1
+457556300,457568800,Aeronautical,Aircraft,1
+457562500,457587500,Aeronautical,Aircraft,1
+457568800,457581250,Maritime,Maritime Radio (Suppliers and Demonstration),1
+457568800,457581250,Maritime,Ship Radio,1
+458500000,458950000,Licence exempt,Industrial/Commercial Telemetry and Tele-command,1
+458500000,459500000,Licence exempt,Model Control,1
+458818750,458831250,Licence exempt,Fixed Alarms,1
+458831250,458843750,Licence exempt,"Mobile, Transportable and Lone worker Safety Alarms",1
+458900000,458900001,Licence exempt,Vehicle Paging Alarms,1
+458962500,459100000,Licence exempt,Medical and Biological Applications,1
+459000000,459500000,Business Radio,Business Radio (Simple Site),1
+459493750,459506250,Public sector,Business Radio (Police and Fire),1
+459506250,459518750,Public sector,Business Radio (Police and Fire),1
+459525000,460496880,Business Radio,Business Radio (Area Defined),1
+459525000,460496880,Business Radio,Business Radio (Technically Assigned),1
+459531250,459543750,Public sector,Business Radio (Police and Fire),1
+460181300,460193800,Business Radio,Business Radio (Suppliers Light),1
+460500000,460750000,Public sector,Business Radio (Police and Fire),1
+460759380,462487500,Business Radio,Business Radio (Area Defined),1
+460759380,462487500,Business Radio,Business Radio (Technically Assigned),1
+461231250,461256250,PMSE,Audio Distribution System,1
+461231250,461256250,PMSE,Programme Making and Special Events (Fixed Site),1
+461231250,461256250,PMSE,Programme Making and Special Events (Link),1
+461231250,461256250,PMSE,Programme Making and Special Events (Low Power),1
+461412500,461437500,Business Radio,Business Radio (Suppliers Light),1
+461506300,461518800,Business Radio,Business Radio (Suppliers Light),1
+461831300,461843800,Business Radio,Business Radio (Suppliers Light),1
+461881300,461893800,Business Radio,Business Radio (Suppliers Light),1
+461956300,461968800,Business Radio,Business Radio (Suppliers Light),1
+462056300,462068800,Business Radio,Business Radio (Suppliers Light),1
+462181300,462193800,Business Radio,Business Radio (Suppliers Light),1
+462356300,462368800,Business Radio,Business Radio (Suppliers Light),1
+462418800,462431300,Business Radio,Business Radio (Suppliers Light),1
+462456300,462468800,Business Radio,Business Radio (Suppliers Light),1
+462468800,462481300,Business Radio,Business Radio (Suppliers Light),1
+462481300,462493800,Business Radio,Business Radio (Suppliers Light),1
+462500000,462750000,Public sector,Business Radio (Police and Fire),1
+462750000,463000000,PMSE,Audio Distribution System,1
+462750000,463000000,PMSE,Programme Making and Special Events (Fixed Site),1
+462750000,463000000,PMSE,Programme Making and Special Events (Link),1
+462750000,463000000,PMSE,Programme Making and Special Events (Low Power),1
+463000000,464000000,Fixed Links,Scanning Telemetry (National),1
+463000000,464000000,Fixed Links,Scanning Telemetry (Shared),1
+464000000,466062500,Public sector,Business Radio (Police and Fire),1
+466087500,467250000,Public sector,Business Radio (Police and Fire),1
+467262500,469875000,PMSE,Audio Distribution System,1
+467262500,469875000,PMSE,Programme Making and Special Events (Fixed Site),1
+467262500,469875000,PMSE,Programme Making and Special Events (Link),1
+467262500,469875000,PMSE,Programme Making and Special Events (Low Power),1
+467512500,467537500,Aeronautical,Aircraft,1
+467518800,467531250,Maritime,Maritime Radio (Suppliers and Demonstration),1
+467518800,467531250,Maritime,Ship Radio,1
+467531300,467543750,Maritime,Maritime Radio (Suppliers and Demonstration),1
+467531300,467543750,Maritime,Ship Radio,1
+467531300,467543800,Aeronautical,Aircraft,1
+467537500,467562500,Aeronautical,Aircraft,1
+467543800,467556250,Maritime,Maritime Radio (Suppliers and Demonstration),1
+467543800,467556250,Maritime,Ship Radio,1
+467556300,467568750,Maritime,Maritime Radio (Suppliers and Demonstration),1
+467556300,467568750,Maritime,Ship Radio,1
+467556300,467568800,Aeronautical,Aircraft,1
+467562500,467587500,Aeronautical,Aircraft,1
+467568800,467581250,Maritime,Maritime Radio (Suppliers and Demonstration),1
+467568800,467581250,Maritime,Ship Radio,1
+469875000,470000000,Public sector,Business Radio (Police and Fire),1
+470000000,550000000,,,0
+470000000,550000000,Broadcasting,Terrestrial TV Broadcast Transmission (UHF Digital),1
+470000000,606000000,PMSE,Audio Distribution System,1
+470000000,606000000,PMSE,Programme Making and Special Events (Fixed Site),1
+470000000,606000000,PMSE,Programme Making and Special Events (Link),1
+470000000,606000000,PMSE,Programme Making and Special Events (Low Power),1
+470000000,694000000,Broadcasting,Terrestrial TV Broadcast Transmission (UHF Digital),1
+470000000,694000000,Licence exempt,White Space Devices (WSD),1
+542000000,550000000,Broadcasting,Spectrum Access Cube Interactive (Cardiff),1
+542000000,550000000,N/A,Spectrum Access 542 - 550 MHz (Cardiff),0
+550000000,606000000,Broadcasting,Spectrum Access Arqiva,1
+550000000,606000000,Broadcasting,Terrestrial TV Broadcast Transmission (UHF Digital),1
+590000000,598000000,Aeronautical,Aeronautical Radar,1
+598000000,606000000,,,0
+606000000,614000000,PMSE,UK Wireless Microphone (Annual),1
+606000000,614000000,PMSE,UK Wireless Microphone (Biennial),1
+606600000,606800000,PMSE,Audio Distribution System,1
+606600000,606800000,PMSE,Programme Making and Special Events (Fixed Site),1
+606600000,606800000,PMSE,Programme Making and Special Events (Link),1
+606600000,606800000,PMSE,Programme Making and Special Events (Low Power),1
+606900000,607100000,PMSE,Audio Distribution System,1
+606900000,607100000,PMSE,Programme Making and Special Events (Fixed Site),1
+606900000,607100000,PMSE,Programme Making and Special Events (Link),1
+606900000,607100000,PMSE,Programme Making and Special Events (Low Power),1
+614000000,694000000,PMSE,Audio Distribution System,1
+614000000,694000000,PMSE,Programme Making and Special Events (Fixed Site),1
+614000000,694000000,PMSE,Programme Making and Special Events (Link),1
+614000000,694000000,PMSE,Programme Making and Special Events (Low Power),1
+703000000,713000000,Mobile and Wireless broadband,Spectrum Access Telefonica (Uplink),1
+703000000,733000000,Mobile and Wireless Broadband,Spectrum Access (700 MHz),1
+713000000,723000000,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Uplink),1
+723000000,733000000,Mobile and Wireless broadband,Spectrum Access EE (Uplink),1
+738000000,758000000,Mobile and Wireless Broadband,Spectrum Access (700 MHz),1
+758000000,766000000,,,0
+758000000,766000000,Broadcasting,Spectrum Access Channel M Television (Manchester),1
+758000000,766000000,N/A,Spectrum Access 758 - 766 MHz,0
+758000000,768000000,Mobile and Wireless broadband,Spectrum Access Telefonica (Downlink),1
+758000000,788000000,Mobile and Wireless Broadband,Spectrum Access (700 MHz),1
+778000000,788000000,Mobile and Wireless broadband,Spectrum Access EE (Downlink),1
+790000000,821000000,N/A,Public Wireless Networks (2G Cellular Operator - Guernsey),0
+790000000,821000000,N/A,Public Wireless Networks (2G Cellular Operator - Isle of Man),0
+790000000,821000000,N/A,Public Wireless Networks (2G Cellular Operator - Jersey),0
+790000000,821000000,N/A,Spectrum Access (800 MHz and 2.6 GHz),0
+791000000,796000000,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Downlink),1
+791000000,796000000,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Downlink),1
+791000000,821000000,,,0
+791000000,821000000,N/A,Cellular Radiotelephone Systems (4G - LTE/WiMAX),0
+796000000,801000000,Mobile and Wireless broadband,Spectrum Access EE (Downlink),1
+801000000,811000000,Mobile and Wireless broadband,Spectrum Access Vodafone (Downlink),1
+811000000,821000000,Mobile and Wireless broadband,Spectrum Access Telefonica (Downlink),1
+823000000,832000000,PMSE,UK Wireless Microphone (Annual),1
+823000000,832000000,PMSE,UK Wireless Microphone (Biennial),1
+832000000,837000000,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Uplink),1
+832000000,862000000,N/A,Cellular Radiotelephone Systems (4G - LTE/WiMAX),0
+832000000,862000000,N/A,Public Wireless Networks (2G Cellular Operator - Guernsey),0
+832000000,862000000,N/A,Public Wireless Networks (2G Cellular Operator - Isle of Man),0
+832000000,862000000,N/A,Public Wireless Networks (2G Cellular Operator - Jersey),0
+832000000,862000000,N/A,Spectrum Access (800 MHz and 2.6 GHz),0
+837000000,842000000,Mobile and Wireless broadband,Spectrum Access EE (Uplink),1
+842000000,852000000,Mobile and Wireless broadband,Spectrum Access Vodafone (Uplink),1
+852000000,862000000,Mobile and Wireless broadband,Spectrum Access Telefonica (Uplink),1
+862000000,863000000,Licence exempt,Non-Specific Short Range Devices,1
+862000000,863000000,Public sector,Business Radio (Police and Fire),1
+863000000,865000000,Licence exempt,High Duty Cycle or Continuous Transmission Devices,1
+863000000,865000000,Licence exempt,Non-Specific Short Range Devices,1
+863000000,865000000,Licence exempt,Radio Microphones,1
+863000000,865000000,Licence exempt,Wireless audio/multimedia,1
+864100000,868100000,Licence exempt,Cordless Telephone Apparatus (CT1; extended CT1; CT2 and DECT),1
+865000000,865600000,Licence exempt,Radio Frequency Identification (RFID),1
+865000000,870000000,Licence exempt,Non-Specific Short Range Devices,1
+865600000,867600000,Licence exempt,Radio Frequency Identification (RFID),1
+866000000,868000000,N/A,CDMA Spread Spectrum Data Asset Tracking Systems,0
+867600000,868000000,Licence exempt,Radio Frequency Identification (RFID),1
+868600000,868700000,Licence exempt,Alarms,1
+868600000,868700000,Licence exempt,Low Duty Cycle or High Reliability Devices,1
+869200000,869250000,Licence exempt,Social Alarms,1
+869200000,869400000,Licence exempt,Low Duty Cycle or High Reliability Devices,1
+869250000,869300000,Licence exempt,Alarms,1
+869300000,869400000,Licence exempt,Alarms,1
+869650000,869700000,Licence exempt,Alarms,1
+869650000,869700000,Licence exempt,Low Duty Cycle or High Reliability Devices,1
+870000000,871000000,N/A,Public Two-way Paging Systems,0
+870000000,873000000,Licence exempt,High Duty Cycle Network Relay Points (NPR),1
+870000000,874400000,Licence exempt,Non-Specific Short Range Devices,1
+870000000,875800000,Licence exempt,Transport and Traffic Telematics,1
+873000000,875600000,Licence exempt,Networked Meter Reading Sensors and Actuators,1
+873000000,876000000,Licence exempt,Non-Specific Short Range Devices,1
+876000000,880000000,Business Radio,Business Radio (GSM-R Railway Use),1
+880000000,915000000,N/A,Cellular Radiotelephone Systems (2G - GSM),0
+880000000,915000000,N/A,Cellular Radiotelephone Systems (4G - LTE/WiMAX),0
+880000000,915000000,N/A,Public Wireless Networks (2G Cellular Operator - Guernsey),0
+880000000,915000000,N/A,Public Wireless Networks (2G Cellular Operator - Isle of Man),0
+880000000,915000000,N/A,Public Wireless Networks (2G Cellular Operator - Jersey),0
+880000000,915000000,N/A,Public Wireless Networks (2G/3G Cellular Operator),0
+880100000,885100000,Mobile and Wireless broadband,PWN Vodafone (Uplink),1
+880100000,914900000,N/A,Cellular Radiotelephone Systems (3G - UMTS/PCN),0
+885100000,890100000,Mobile and Wireless broadband,PWN Telefonica UK (Uplink),1
+888000000,889000000,Licence exempt,Radio Determination,1
+890000000,915000000,Public sector,Military,1
+890100000,902500000,Mobile and Wireless broadband,PWN Vodafone (Uplink),1
+902500000,914900000,Mobile and Wireless broadband,PWN Telefonica UK (Uplink),1
+915000000,917000000,Space Science,Met Office,1
+915000000,918000000,Licence exempt,Non-Specific Short Range Devices,1
+916100000,916500000,Licence exempt,Assistive Listening Devices,1
+916100000,918900000,Licence exempt,Radio Frequency Identification (RFID),1
+917300000,917700000,Licence exempt,Assistive Listening Devices,1
+917400000,919400000,Licence exempt,Wideband Data Transmission Devices,1
+918000000,921000000,Licence exempt,Non-Specific Short Range Devices,1
+918500000,918900000,Licence exempt,Assistive Listening Devices,1
+919700000,920100000,Licence exempt,Assistive Listening Devices,1
+919700000,920100000,Licence exempt,Radio Frequency Identification (RFID),1
+921000000,925000000,Business Radio,Business Radio (GSM-R Railway Use),1
+925000000,942000000,Public sector,Military,1
+925000000,960000000,,,0
+925000000,960000000,N/A,Cellular Radiotelephone Systems (2G - GSM),0
+925000000,960000000,N/A,Cellular Radiotelephone Systems (4G - LTE/WiMAX),0
+925000000,960000000,N/A,Public Wireless Networks (2G Cellular Operator - Guernsey),0
+925000000,960000000,N/A,Public Wireless Networks (2G Cellular Operator - Isle of Man),0
+925000000,960000000,N/A,Public Wireless Networks (2G Cellular Operator - Jersey),0
+925000000,960000000,N/A,Public Wireless Networks (2G/3G Cellular Operator),0
+925100000,930100000,Mobile and Wireless broadband,PWN Vodafone (Downlink),1
+930100000,935100000,Mobile and Wireless broadband,PWN Telefonica UK (Downlink),1
+935100000,947500000,Mobile and Wireless broadband,PWN Vodafone (Downlink),1
+947500000,955100000,Mobile and Wireless broadband,PWN Vodafone (Downlink),1
+960000000,1164000000,PMSE,Programme Making and Special Events (Low Power),1
+960000000,1215000000,Aeronautical,Aeronautical Navigation Aid Stations,1
+960000000,1215000000,Aeronautical,Aircraft,1
+960000000,1215000000,Public sector,Military,1
+962000000,970000000,Space Science,Radio Astronomy,1
+1025000000,1035000000,Aeronautical,Aeronautical Radar,1
+1085000000,1095000000,Aeronautical,Aeronautical Radar,1
+1164000000,1215000000,Satellite,Global Navigation Satellite System (GNSS) Repeaters,1
+1164000000,1215000000,Space Science,Radio Navigation Satellite Service,1
+1215000000,1240000000,Space Science,Earth Exploration Satellite Service (active),1
+1215000000,1240000000,Space Science,Radio Navigation Satellite Service,1
+1215000000,1240000000,Space Science,Space Research Service (Active),1
+1215000000,1300000000,Satellite,Global Navigation Satellite System (GNSS) Repeaters,1
+1215000000,1350000000,Aeronautical,Aeronautical Radar,1
+1215000000,1375000000,Public sector,Military,1
+1240000000,1260000000,Space Science,Earth Exploration Satellite Service (active),1
+1240000000,1260000000,Space Science,Radio Navigation Satellite Service,1
+1240000000,1260000000,Space Science,Space Research Service (Active),1
+1240000000,1325000000,Amateur,Amateur Radio Full Licence,1
+1240000000,1325000000,Amateur,Amateur Radio Intermediate Licence,1
+1260000000,1300000000,Space Science,Earth Exploration Satellite Service (active),1
+1260000000,1300000000,Space Science,Met Office,1
+1260000000,1300000000,Space Science,Radio Navigation Satellite Service,1
+1260000000,1300000000,Space Science,Space Research Service (Active),1
+1300000000,1350000000,Space Science,Radio Navigation Satellite Service,1
+1350000000,1375000000,Fixed Links,Point-to-Point Fixed Links,1
+1350000000,1380000000,Space Science,Radio Astronomy,1
+1375000000,1400000000,Public sector,Military,1
+1380000000,1400000000,Space Science,Radio Astronomy,1
+1389000000,1399000000,Licence exempt,Video Distribution for Private Use,1
+1389000000,1399000000,Licence exempt,Wireless Video Cameras - Non Broadcasting,1
+1400000000,1427000000,Space Science,Earth Exploration Satellite Service (passive),1
+1400000000,1427000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+1400000000,1427000000,Space Science,Space Research Service (passive),1
+1427000000,1429000000,Space Science,Space Operations Service,1
+1427000000,1452000000,Public sector,Military,1
+1452000000,1472000000,Mobile and Wireless broadband,Spectrum Access Vodafone,1
+1452000000,1492000000,N/A,Spectrum Access L Band (1452-1492 MHz),0
+1472000000,1492000000,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Uplink),1
+1492000000,1517000000,Fixed Links,Point-to-Point Fixed Links,1
+1517000000,1525000000,PMSE,Audio Distribution System,1
+1517000000,1525000000,PMSE,Programme Making and Special Events (Fixed Site),1
+1517000000,1525000000,PMSE,Programme Making and Special Events (Link),1
+1517000000,1525000000,PMSE,Programme Making and Special Events (Low Power),1
+1518000000,1544000000,Satellite,Land Mobile-Satellite Service Stations,1
+1525000000,1530000000,Space Science,Earth Exploration Satellite Service,1
+1525000000,1530000000,Space Science,Space Operations Service,1
+1525000000,1544000000,Satellite,Land Mobile-Satellite Service Stations,1
+1525000000,1559000000,Maritime,Maritime Radio (Suppliers and Demonstration),1
+1525000000,1559000000,Maritime,Ship Radio,1
+1530000000,1533000000,Space Science,Earth Exploration Satellite Service,1
+1530000000,1533000000,Space Science,Space Operations Service,1
+1533000000,1535000000,Space Science,Earth Exploration Satellite Service,1
+1533000000,1535000000,Space Science,Space Operations Service,1
+1545000000,1559000000,Satellite,Land Mobile-Satellite Service Stations,1
+1559000000,1610000000,Satellite,Global Navigation Satellite System (GNSS) Repeaters,1
+1559000000,1610000000,Space Science,Radio Navigation Satellite Service,1
+1559000000,1626500000,Public sector,Military,1
+1610000000,1621350000,Satellite,Land Mobile-Satellite Service Stations,1
+1610600000,1613800000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+1621350000,1626500000,Satellite,Land Mobile-Satellite Service Stations,1
+1626500000,1645500000,Satellite,Land Mobile-Satellite Service Stations,1
+1626500000,1660500000,Maritime,Maritime Radio (Suppliers and Demonstration),1
+1626500000,1660500000,Maritime,Ship Radio,1
+1646500000,1656500000,Aeronautical,Aircraft,1
+1646500000,1660500000,Satellite,Land Mobile-Satellite Service Stations,1
+1660000000,1660500000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+1660500000,1668000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+1660500000,1668000000,Space Science,Space Research Service (passive),1
+1668000000,1668400000,Space Science,Space Research Service (passive),1
+1668000000,1670000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+1670000000,1675000000,Satellite,Land Mobile-Satellite Service Stations,1
+1672000000,1673000000,Fixed Links,Point-to-Point Fixed Links,1
+1677000000,1685000000,Public sector,Business Radio (Police and Fire),1
+1686000000,1687000000,Fixed Links,Point-to-Point Fixed Links,1
+1690000000,1710000000,Space Science,Met Office,1
+1690000000,1710000000,Space Science,RSA for receive only earth stations (ROES),1
+1710000000,1785000000,N/A,Cellular Radiotelephone Systems (2G - GSM),0
+1710000000,1785000000,N/A,Cellular Radiotelephone Systems (4G - LTE/WiMAX),0
+1710000000,1785000000,N/A,Public  Wireless Networks (2G/3G Cellular Operator),0
+1710000000,1785000000,N/A,Public Wireless Networks (2G Cellular Operator - Guernsey),0
+1710000000,1785000000,N/A,Public Wireless Networks (2G Cellular Operator - Isle of Man),0
+1710000000,1785000000,N/A,Public Wireless Networks (2G Cellular Operator - Jersey),0
+1710100000,1715900000,Mobile and Wireless broadband,PWN Telefonica UK (Uplink),1
+1710100000,1785000000,N/A,Cellular Radiotelephone Systems (3G - UMTS/PCN),0
+1715900000,1721700000,Mobile and Wireless broadband,PWN Vodafone (Uplink),1
+1718200000,1722200000,Space Science,Radio Astronomy,1
+1721700000,1731700000,Mobile and Wireless broadband,PWN EE (Uplink),1
+1721700000,1731700000,Mobile and Wireless broadband,PWN Hutchison 3G (Uplink),1
+1731700000,1736700000,Mobile and Wireless broadband,PWN EE (Uplink),1
+1731700000,1736700000,Mobile and Wireless broadband,PWN Hutchison 3G (Uplink),1
+1736700000,1781700000,Mobile and Wireless broadband,PWN EE (Uplink),1
+1750000000,1785000000,Public sector,Military,1
+1781700000,1785000000,Mobile and Wireless broadband,Shared Access (Low Power),1
+1781700000,1785000000,Mobile and Wireless broadband,Shared Access (Medium Power),1
+1785000000,1800000000,PMSE,Programme Making and Special Events (Fixed Site),1
+1785000000,1800000000,PMSE,Programme Making and Special Events (Link),1
+1785000000,1800000000,PMSE,Programme Making and Special Events (Low Power),1
+1785000000,1800000000,Public sector,Military,1
+1785000000,1805000000,,,0
+1785000000,1805000000,Mobile and Wireless broadband,1785-1805 MHz Northern Ireland Award,1
+1785000000,1805000000,PMSE,UK Wireless Microphone (Annual),1
+1785000000,1805000000,PMSE,UK Wireless Microphone (Biennial),1
+1800000000,1805000000,Public sector,Military,1
+1805000000,1880000000,,,0
+1805000000,1880000000,N/A,Cellular Radiotelephone Systems (2G - GSM),0
+1805000000,1880000000,N/A,Cellular Radiotelephone Systems (4G - LTE/WiMAX),0
+1805000000,1880000000,N/A,Public  Wireless Networks (2G/3G Cellular Operator),0
+1805000000,1880000000,N/A,Public Wireless Networks (2G Cellular Operator - Guernsey),0
+1805000000,1880000000,N/A,Public Wireless Networks (2G Cellular Operator - Isle of Man),0
+1805000000,1880000000,N/A,Public Wireless Networks (2G Cellular Operator - Jersey),0
+1805000000,1880000000,Public sector,Military,1
+1805100000,1810900000,Mobile and Wireless broadband,PWN Telefonica UK (Downlink),1
+1810900000,1816700000,Mobile and Wireless broadband,PWN Vodafone (Downlink),1
+1816700000,1826700000,Mobile and Wireless broadband,PWN EE (Downlink),1
+1816700000,1826700000,Mobile and Wireless broadband,PWN Hutchison 3G (Downlink),1
+1826700000,1831700000,Mobile and Wireless broadband,PWN EE (Downlink),1
+1826700000,1831700000,Mobile and Wireless broadband,PWN Hutchison 3G (Downlink),1
+1831700000,1876700000,Mobile and Wireless broadband,PWN EE (Downlink),1
+1876700000,1880000000,Mobile and Wireless broadband,Shared Access (Low Power),1
+1876700000,1880000000,Mobile and Wireless broadband,Shared Access (Medium Power),1
+1880000000,1900000000,Licence exempt,Cordless Telephone Apparatus (CT1; extended CT1; CT2 and DECT),1
+1899900000,1909900000,Mobile and Wireless broadband,Spectrum Access EE,1
+1899900000,1920000000,N/A,Cellular Radiotelephone Systems (3G - UMTS/PCN),0
+1899900000,1980000000,N/A,Public Wireless Networks (3G Cellular Operator - Guernsey),0
+1899900000,1980000000,N/A,Public Wireless Networks (3G Cellular Operator - Isle of Man),0
+1899900000,1980000000,N/A,Public Wireless Networks (3G Cellular Operator - Jersey),0
+1900000000,1920000000,N/A,Public Wireless Networks (3G Cellular Operator),0
+1909900000,1914900000,Mobile and Wireless broadband,Spectrum Access Telefonica,1
+1914900000,1920000000,Mobile and Wireless broadband,Spectrum Access Hutchison 3G,1
+1920000000,1934900000,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Uplink),1
+1920000000,1980000000,,,0
+1920000000,1980000000,N/A,Cellular Radiotelephone Systems (3G - UMTS/PCN),0
+1920000000,1980000000,N/A,Cellular Radiotelephone Systems (4G - LTE/WiMAX),0
+1920000000,1980000000,N/A,Public Wireless Networks (3G Cellular Operator),0
+1934900000,1944900000,Mobile and Wireless broadband,Spectrum Access Telefonica (Uplink),1
+1944900000,1959700000,Mobile and Wireless broadband,Spectrum Access Vodafone (Uplink),1
+1959700000,1979700000,Mobile and Wireless broadband,Spectrum Access EE (Uplink),1
+1980000000,2010000000,Satellite,Complementary Ground Components of a Mobile Satellite System,1
+1997500000,2010000000,Satellite,Land Mobile-Satellite Service Stations,1
+2010000000,2025000000,PMSE,Programme Making and Special Events (Fixed Site),1
+2010000000,2025000000,PMSE,Programme Making and Special Events (Link),1
+2010000000,2025000000,PMSE,Programme Making and Special Events (Low Power),1
+2025000000,2110000000,,,0
+2025000000,2110000000,PMSE,Programme Making and Special Events (Fixed Site),1
+2025000000,2110000000,PMSE,Programme Making and Special Events (Link),1
+2025000000,2110000000,PMSE,Programme Making and Special Events (Low Power),1
+2025000000,2110000000,Public sector,Military,1
+2025000000,2110000000,Satellite,Satellite (Earth Station)(Non-Fixed Satellite Service),1
+2025000000,2110000000,Satellite,Satellite (Earth Station)(Non-Geostationary),1
+2025000000,2110000000,Space Science,Earth Exploration Satellite Service,1
+2025000000,2110000000,Space Science,Space Operations Service,1
+2100000000,2105000000,Fixed Links,Point-to-Point Fixed Links,1
+2110000000,2120000000,,,0
+2110000000,2170000000,N/A,Cellular Radiotelephone Systems (3G - UMTS/PCN),0
+2110000000,2170000000,N/A,Cellular Radiotelephone Systems (4G - LTE/WiMAX),0
+2110000000,2170000000,N/A,Public Wireless Networks (3G Cellular Operator - Guernsey),0
+2110000000,2170000000,N/A,Public Wireless Networks (3G Cellular Operator - Isle of Man),0
+2110000000,2170000000,N/A,Public Wireless Networks (3G Cellular Operator - Jersey),0
+2110000000,2170000000,N/A,Public Wireless Networks (3G Cellular Operator),0
+2110300000,2124900000,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Downlink),1
+2124900000,2134900000,Mobile and Wireless broadband,Spectrum Access Telefonica (Downlink),1
+2134900000,2149700000,Mobile and Wireless broadband,Spectrum Access Vodafone (Downlink),1
+2149700000,2169700000,Mobile and Wireless broadband,Spectrum Access EE (Downlink),1
+2170000000,2200000000,Satellite,Complementary Ground Components of a Mobile Satellite System,1
+2187500000,2200000000,Satellite,Land Mobile-Satellite Service Stations,1
+2200000000,2290000000,Public sector,Military,1
+2200000000,2290000000,Satellite,Satellite (Earth Station)(Non-Fixed Satellite Service),1
+2200000000,2290000000,Satellite,Satellite (Earth Station)(Non-Geostationary),1
+2200000000,2290000000,Space Science,Earth Exploration Satellite Service,1
+2200000000,2290000000,Space Science,Space Operations Service,1
+2200000000,2300000000,PMSE,Programme Making and Special Events (Fixed Site),1
+2200000000,2300000000,PMSE,Programme Making and Special Events (Link),1
+2200000000,2300000000,PMSE,Programme Making and Special Events (Low Power),1
+2205000000,2210000000,Fixed Links,Point-to-Point Fixed Links,1
+2290000000,2300000000,,,0
+2290000000,2300000000,Space Science,Radio Astronomy,1
+2302000000,2310000000,Public sector,Military,1
+2310000000,2320000000,Public sector,Business Radio (Police and Fire),1
+2310000000,2350000000,Amateur,Amateur Radio Full Licence,1
+2310000000,2350000000,Amateur,Amateur Radio Intermediate Licence,1
+2310000000,2450000000,Public sector,Military,1
+2320000000,2350000000,Public sector,Business Radio (Police and Fire),1
+2350000000,2390000000,,,0
+2350000000,2390000000,Mobile and Wireless broadband,Spectrum Access Telefonica,1
+2390000000,2400000000,Mobile and Wireless broadband,Shared Access (Low Power),1
+2390000000,2400000000,Mobile and Wireless broadband,Shared Access (Medium Power),1
+2390000000,2450000000,Amateur,Amateur Radio Full Licence,1
+2390000000,2450000000,Amateur,Amateur Radio Intermediate Licence,1
+2390000000,2500000000,PMSE,Programme Making and Special Events (Fixed Site),1
+2390000000,2500000000,PMSE,Programme Making and Special Events (Link),1
+2390000000,2500000000,PMSE,Programme Making and Special Events (Low Power),1
+2400000000,2483500000,Licence exempt,Non-Specific Short Range Devices,1
+2400000000,2483500000,Licence exempt,Radio Determination,1
+2400000000,2483500000,Licence exempt,Wideband Data Transmission Devices,1
+2400000000,2483500000,Licence exempt,Wireless Video Cameras - Non Broadcasting,1
+2400000000,2483500000,Licence exempt,Wireless audio/multimedia,1
+2445000000,2455000000,Licence exempt,Industrial/Commercial Telemetry and Tele-command,1
+2445000000,2455000000,Licence exempt,Radio Determination,1
+2445000000,2455000000,Licence exempt,Short Range Indoor Data Links,1
+2446000000,2454000000,Licence exempt,Radio Frequency Identification (RFID),1
+2446000000,2454000000,Licence exempt,Railway Applications,1
+2450000000,2483500000,Public sector,Military,1
+2483500000,2500000000,Licence exempt,Active Medical Implants,1
+2483500000,2500000000,Satellite,Land Mobile-Satellite Service Stations,1
+2500000000,2520000000,Mobile and Wireless broadband,Spectrum Access Vodafone (Uplink),1
+2500000000,2690000000,N/A,Cellular Radiotelephone Systems (4G - LTE/WiMAX),0
+2500000000,2690000000,N/A,Public Wireless Networks (2G Cellular Operator - Guernsey),0
+2500000000,2690000000,N/A,Public Wireless Networks (2G Cellular Operator - Isle of Man),0
+2500000000,2690000000,N/A,Public Wireless Networks (2G Cellular Operator - Jersey),0
+2500000000,2690000000,N/A,Spectrum Access (800 MHz and 2.6 GHz),0
+2520000000,2535000000,Mobile and Wireless broadband,Spectrum Access EE (Uplink),1
+2535000000,2570000000,Mobile and Wireless broadband,Spectrum Access EE (Uplink),1
+2570000000,2595000000,Mobile and Wireless broadband,Spectrum Access Vodafone,1
+2595000000,2620000000,Mobile and Wireless broadband,Spectrum Access Telefonica,1
+2620000000,2640000000,Mobile and Wireless broadband,Spectrum Access Vodafone (Downlink),1
+2640000000,2655000000,Mobile and Wireless broadband,Spectrum Access EE (Downlink),1
+2655000000,2670000000,Space Science,Earth Exploration Satellite Service (passive),1
+2655000000,2670000000,Space Science,Radio Astronomy,1
+2655000000,2670000000,Space Science,Space Research Service (passive),1
+2655000000,2690000000,Mobile and Wireless broadband,Spectrum Access EE (Downlink),1
+2670000000,2690000000,Space Science,Earth Exploration Satellite Service (passive),1
+2670000000,2690000000,Space Science,Radio Astronomy,1
+2670000000,2690000000,Space Science,Space Research Service (passive),1
+2690000000,2700000000,Space Science,Earth Exploration Satellite Service (passive),1
+2690000000,2700000000,Space Science,Met Office,1
+2690000000,2700000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+2690000000,2700000000,Space Science,Space Research Service (passive),1
+2700000000,2900000000,Public sector,Military,1
+2700000000,3100000000,Aeronautical,Aeronautical Radar,1
+2900000000,3100000000,Maritime,Maritime Navigational Aids and Radar,1
+2900000000,3100000000,Maritime,Ship Radio,1
+2900000000,3600000000,Public sector,Military,1
+3100000000,3300000000,Space Science,Earth Exploration Satellite Service (active),1
+3100000000,3300000000,Space Science,Space Research Service (Active),1
+3100000000,3402000000,Public sector,Business Radio (Police and Fire),1
+3400000000,3410000000,Amateur,Amateur Radio Full Licence,1
+3400000000,3410000000,Amateur,Amateur Radio Intermediate Licence,1
+3400000000,3410000000,PMSE,Programme Making and Special Events (Fixed Site),1
+3410000000,3460000000,Mobile and Wireless broadband,Spectrum Access Vodafone,1
+3410000000,3480000000,,,0
+3460000000,3480000000,Mobile and Wireless broadband,Spectrum Access Hutchison 3G,1
+3480000000,3500000000,Mobile and Wireless broadband,Spectrum Access UK Broadband,1
+3480000000,3500000000,N/A,Spectrum Access (3.5 GHz Band),0
+3500000000,3540000000,Mobile and Wireless broadband,Spectrum Access Telefonica,1
+3500000000,3580000000,,,0
+3540000000,3580000000,Mobile and Wireless broadband,Spectrum Access EE,1
+3580000000,3600000000,Mobile and Wireless broadband,Spectrum Access UK Broadband,1
+3580000000,3600000000,N/A,Spectrum Access (3.5 GHz Band),0
+3600000000,3630000000,N/A,Fixed Wireless Access (3.6 GHz Guernsey),0
+3600000000,3630000000,N/A,Fixed Wireless Access (3.6 GHz Isle of Man),0
+3600000000,3630000000,N/A,Fixed Wireless Access (3.6 GHz Jersey),0
+3600000000,3680000000,Mobile and Wireless broadband,Spectrum Access UK Broadband,1
+3600000000,3680000000,N/A,Spectrum Access  (3.6 GHz),0
+3680000000,3720000000,Mobile and Wireless broadband,Spectrum Access EE,1
+3680000000,3800000000,Mobile and Wireless Broadband,Spectrum Access (3.6-3.8 MHz),1
+3700000000,3730000000,N/A,Fixed Wireless Access (3.6 GHz Guernsey),0
+3700000000,3730000000,N/A,Fixed Wireless Access (3.6 GHz Isle of Man),0
+3700000000,3730000000,N/A,Fixed Wireless Access (3.6 GHz Jersey),0
+3720000000,3760000000,Mobile and Wireless broadband,Spectrum Access Telefonica,1
+3720000000,3760000000,Mobile and Wireless broadband,Spectrum Access Vodafone,1
+3760000000,3800000000,Mobile and Wireless broadband,Spectrum Access Telefonica,1
+3800000000,3925000000,Fixed Links,Point-to-Point Fixed Links,1
+3800000000,4200000000,Mobile and Wireless broadband,Shared Access (Low Power),1
+3800000000,4200000000,Mobile and Wireless broadband,Shared Access (Medium Power),1
+3800000000,4200000000,Satellite,Satellite (Earth Station)(Non-Geostationary),1
+3800000000,4200000000,Satellite,Satellite (Permanent Earth Station),1
+3800000000,4200000000,Space Science,RSA for receive only earth stations (ROES),1
+3925000000,4009000000,Mobile and Wireless broadband,Spectrum Access UK Broadband,1
+3925000000,4009000000,N/A,Spectrum Access  (3.6 GHz),0
+4009000000,4200000000,Fixed Links,Point-to-Point Fixed Links,1
+4200000000,4400000000,Aeronautical,Aircraft,1
+4200000000,5000000000,Public sector,Military,1
+4500000000,7000000000,Licence exempt,Radio Determination,1
+4500000000,7000000000,Licence exempt,Tank Level Probing Radar (TLPR),1
+4600000000,4825000000,Space Science,Radio Astronomy,1
+4825000000,4835000000,Space Science,Radio Astronomy,1
+4835000000,4950000000,Space Science,Radio Astronomy,1
+4950000000,4990000000,Space Science,Radio Astronomy,1
+4990000000,5000000000,Space Science,Radio Astronomy,1
+5000000000,5010000000,Space Science,Radio Navigation Satellite Service,1
+5000000000,5250000000,Aeronautical,Aeronautical Navigation Aid Stations,1
+5000000000,5850000000,Public sector,Military,1
+5010000000,5030000000,Space Science,Radio Navigation Satellite Service,1
+5150000000,5250000000,Satellite,Satellite (Earth Station)(Non-Fixed Satellite Service),1
+5150000000,5250000000,Satellite,Satellite (Earth Station)(Non-Geostationary),1
+5150000000,5250000000,Satellite,Satellite (Permanent Earth Station),1
+5150000000,5350000000,Licence exempt,Wireless Access Systems,1
+5150000000,7100000000,Licence exempt,Radar Level Gauges,1
+5250000000,5255000000,,,0
+5250000000,5255000000,,,0
+5255000000,5350000000,Space Science,Earth Exploration Satellite Service (active),1
+5255000000,5350000000,Space Science,Space Research Service (Active),1
+5350000000,5460000000,Space Science,Earth Exploration Satellite Service (active),1
+5350000000,5460000000,Space Science,Space Research Service (Active),1
+5350000000,5470000000,Aeronautical,Aircraft,1
+5460000000,5470000000,Space Science,Earth Exploration Satellite Service (active),1
+5460000000,5470000000,Space Science,Space Research Service (Active),1
+5470000000,5570000000,Space Science,Earth Exploration Satellite Service (active),1
+5470000000,5570000000,Space Science,Space Research Service (Active),1
+5470000000,5725000000,Licence exempt,Wireless Access Systems,1
+5472000000,5588000000,PMSE,Programme Making and Special Events (Fixed Site),1
+5472000000,5588000000,PMSE,Programme Making and Special Events (Link),1
+5472000000,5588000000,PMSE,Programme Making and Special Events (Low Power),1
+5575000000,5765000000,Amateur,Amateur Radio Intermediate Licence,1
+5600000000,5650000000,Space Science,Met Office,1
+5650000000,5680000000,Amateur,Amateur Radio Full Licence,1
+5650000000,5680000000,Amateur,Amateur Radio Intermediate Licence,1
+5650000000,5725000000,Space Science,Space Research Service (deep space),1
+5682500000,5702500000,PMSE,Programme Making and Special Events (Fixed Site),1
+5682500000,5702500000,PMSE,Programme Making and Special Events (Link),1
+5682500000,5702500000,PMSE,Programme Making and Special Events (Low Power),1
+5705000000,5725000000,PMSE,Programme Making and Special Events (Fixed Site),1
+5705000000,5725000000,PMSE,Programme Making and Special Events (Link),1
+5705000000,5725000000,PMSE,Programme Making and Special Events (Low Power),1
+5725000000,5850000000,Licence exempt,Wireless Access Systems,1
+5725000000,5850000000,Mobile and Wireless broadband,Fixed Wireless Access (5.8 GHz band),1
+5725000000,5875000000,Licence exempt,Non-Specific Short Range Devices,1
+5725000000,5875000000,Licence exempt,Radio Determination,1
+5725000000,5875000000,Licence exempt,Short Range Indoor Data Links,1
+5725000000,5875000000,Licence exempt,Wireless Video Cameras - Non Broadcasting,1
+5725000000,7075000000,Satellite,Satellite (Earth Station)(Non-Fixed Satellite Service),1
+5725000000,7075000000,Satellite,Satellite (Earth Station)(Non-Geostationary),1
+5725000000,7075000000,Satellite,Satellite (Permanent Earth Station),1
+5732500000,5752500000,PMSE,Programme Making and Special Events (Fixed Site),1
+5732500000,5752500000,PMSE,Programme Making and Special Events (Link),1
+5732500000,5752500000,PMSE,Programme Making and Special Events (Low Power),1
+5755000000,5765000000,Amateur,Amateur Radio Full Licence,1
+5755000000,5765000000,Amateur,Amateur Radio Intermediate Licence,1
+5770000000,5790000000,PMSE,Programme Making and Special Events (Fixed Site),1
+5770000000,5790000000,PMSE,Programme Making and Special Events (Link),1
+5770000000,5790000000,PMSE,Programme Making and Special Events (Low Power),1
+5795000000,5805000000,Licence exempt,Transport and Traffic Telematics,1
+5795000000,5815000000,Licence exempt,Intelligent Transport Systems (ITS),1
+5795000000,5815000000,PMSE,Programme Making and Special Events (Fixed Site),1
+5795000000,5815000000,PMSE,Programme Making and Special Events (Link),1
+5795000000,5815000000,PMSE,Programme Making and Special Events (Low Power),1
+5805000000,5815000000,Licence exempt,Transport and Traffic Telematics,1
+5820000000,5850000000,Amateur,Amateur Radio Full Licence,1
+5820000000,5850000000,Amateur,Amateur Radio Intermediate Licence,1
+5850000000,5925000000,PMSE,Programme Making and Special Events (Fixed Site),1
+5850000000,5925000000,PMSE,Programme Making and Special Events (Link),1
+5850000000,5925000000,PMSE,Programme Making and Special Events (Low Power),1
+5850000000,7075000000,Public sector,Military,1
+5855000000,5865000000,Licence exempt,Transport and Traffic Telematics,1
+5865000000,5875000000,Licence exempt,Transport and Traffic Telematics,1
+5875000000,5905000000,Licence exempt,Intelligent Transport Systems (ITS),1
+5925000000,6425000000,Fixed Links,Point-to-Point Fixed Links,1
+5925000000,6425000000,Licence exempt,Wireless Access Systems,1
+5925000000,7075000000,Satellite,Satellite (Transportable Earth Station)(high power),1
+5925000000,7075000000,Satellite,Satellite (Transportable Earth Station)(low power),1
+5925000000,7075000000,Satellite,Satellite (Transportable Earth Station)(medium power),1
+6425000000,7125000000,Fixed Links,Point-to-Point Fixed Links,1
+6425000000,7250000000,Space Science,Met Office,1
+6650000000,6675200000,Space Science,Radio Astronomy,1
+7110000000,7250000000,PMSE,Programme Making and Special Events (Fixed Site),1
+7110000000,7250000000,PMSE,Programme Making and Special Events (Link),1
+7110000000,7250000000,PMSE,Programme Making and Special Events (Low Power),1
+7145000000,7235000000,,,0
+7250000000,7300000000,Public sector,Military,1
+7300000000,7425000000,PMSE,Programme Making and Special Events (Fixed Site),1
+7300000000,7425000000,PMSE,Programme Making and Special Events (Link),1
+7300000000,7425000000,PMSE,Programme Making and Special Events (Low Power),1
+7300000000,7750000000,Public sector,Military,1
+7425000000,7900000000,Fixed Links,Point-to-Point Fixed Links,1
+7450000000,7550000000,Space Science,Met Office,1
+7750000000,7850000000,Space Science,Met Office,1
+7750000000,7850000000,Space Science,RSA for receive only earth stations (ROES),1
+7900000000,8400000000,Public sector,Military,1
+8025000000,8175000000,Space Science,Earth Exploration Satellite Service,1
+8175000000,8400000000,Space Science,Met Office,1
+8340000000,8360000000,Public sector,Business Radio (Police and Fire),1
+8400000000,8460000000,Public sector,Business Radio (Police and Fire),1
+8400000000,8500000000,,,0
+8400000000,8500000000,Space Science,Radio Astronomy,1
+8460000000,8500000000,PMSE,Programme Making and Special Events (Fixed Site),1
+8460000000,8500000000,PMSE,Programme Making and Special Events (Link),1
+8460000000,8500000000,PMSE,Programme Making and Special Events (Low Power),1
+8500000000,10125000000,Public sector,Military,1
+8500000000,10600000000,Licence exempt,Radar Level Gauges,1
+8500000000,10600000000,Licence exempt,Radio Determination,1
+8500000000,10600000000,Licence exempt,Tank Level Probing Radar (TLPR),1
+8550000000,8650000000,Space Science,Earth Exploration Satellite Service (active),1
+8550000000,8650000000,Space Science,Space Research Service (Active),1
+9000000000,9200000000,Aeronautical,Aeronautical Radar,1
+9000000000,9500000000,Maritime,Maritime Navigational Aids and Radar,1
+9200000000,9500000000,Maritime,Ship Radio,1
+9300000000,9500000000,Aeronautical,Aeronautical Radar,1
+9300000000,9500000000,Aeronautical,Aircraft,1
+9300000000,9500000000,Space Science,Earth Exploration Satellite Service (active),1
+9300000000,9500000000,Space Science,Space Research Service (Active),1
+9500000000,9800000000,Space Science,Earth Exploration Satellite Service (active),1
+9500000000,9800000000,Space Science,Space Research Service (Active),1
+9800000000,9900000000,Space Science,Earth Exploration Satellite Service (active),1
+9800000000,9900000000,Space Science,Space Research Service (Active),1
+9975000000,10025000000,Space Science,Met Office,1
+10000000000,10125000000,Amateur,Amateur Radio Foundation Licence,1
+10000000000,10125000000,Amateur,Amateur Radio Full Licence,1
+10000000000,10125000000,Amateur,Amateur Radio Intermediate Licence,1
+10125000000,10205000000,Fixed Links,Spectrum Access Mobile Broadband Network Limited (Uplink),1
+10125000000,10225000000,N/A,Spectrum Access 10 - 40 GHz Band,0
+10205000000,10225000000,Fixed Links,Spectrum Access Digiweb (Uplink),1
+10225000000,10500000000,Amateur,Amateur Radio Full Licence,1
+10225000000,10500000000,Amateur,Amateur Radio Intermediate Licence,1
+10225000000,10600000000,Public sector,Military,1
+10250000000,10270000000,Public sector,Business Radio (Police and Fire),1
+10300000000,10360000000,PMSE,Programme Making and Special Events (Fixed Site),1
+10300000000,10360000000,PMSE,Programme Making and Special Events (Link),1
+10300000000,10360000000,PMSE,Programme Making and Special Events (Low Power),1
+10360000000,10400000000,Public sector,Business Radio (Police and Fire),1
+10400000000,10460000000,Public sector,Business Radio (Police and Fire),1
+10450000000,10500000000,Amateur,Amateur Radio Foundation Licence,1
+10475000000,10555000000,Fixed Links,Spectrum Access Mobile Broadband Network Limited (Downlink),1
+10475000000,10575000000,N/A,Spectrum Access 10 - 40 GHz Band,0
+10555000000,10575000000,Fixed Links,Spectrum Access Digiweb (Downlink),1
+10575000000,10600000000,Licence exempt,Radio Determination,1
+10600000000,10680000000,Space Science,Earth Exploration Satellite Service (passive),1
+10600000000,10680000000,Space Science,Met Office,1
+10600000000,10680000000,Space Science,Space Research Service (passive),1
+10675000000,10699000000,Licence exempt,Radio Determination,1
+10675000000,10699000000,Licence exempt,Short Range Indoor Data Links,1
+10680000000,10700000000,Space Science,Earth Exploration Satellite Service (passive),1
+10680000000,10700000000,Space Science,Met Office,1
+10680000000,10700000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+10680000000,10700000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+10680000000,10700000000,Space Science,Space Research Service (passive),1
+10700000000,10850000000,Licence exempt,Radar Level Gauges,1
+10700000000,10850000000,Licence exempt,Radar Level Gauges,1
+10700000000,11700000000,Fixed Links,Point-to-Point Fixed Links,1
+10700000000,11700000000,Satellite,Land Mobile-Satellite Service Stations,1
+10700000000,12750000000,Satellite,Satellite (Earth Station)(Non-Geostationary),1
+10700000000,12750000000,Satellite,Satellite (Permanent Earth Station),1
+11700000000,12500000000,Satellite,Broadcasting Satellite,1
+11700000000,12750000000,Satellite,Satellite (Earth Station)(Non-Fixed Satellite Service),1
+11700000000,13250000000,Public sector,Military,1
+12200000000,12500000000,PMSE,Programme Making and Special Events (Fixed Site),1
+12200000000,12500000000,PMSE,Programme Making and Special Events (Link),1
+12200000000,12500000000,PMSE,Programme Making and Special Events (Low Power),1
+12500000000,12750000000,Satellite,Land Mobile-Satellite Service Stations,1
+12750000000,13250000000,Fixed Links,Point-to-Point Fixed Links,1
+12750000000,13250000000,Satellite,Satellite (Earth Station)(Non-Geostationary),1
+12750000000,13250000000,Satellite,Satellite (Permanent Earth Station),1
+12750000000,13250000000,Space Science,Space Research Service (deep space),1
+13250000000,13400000000,,,0
+13250000000,13400000000,Aeronautical,Aircraft,1
+13250000000,13400000000,Public sector,Military,1
+13400000000,13750000000,Space Science,Earth Exploration Satellite Service (active),1
+13400000000,13750000000,Space Science,Met Office,1
+13400000000,13750000000,Space Science,Space Research Service (Active),1
+13400000000,14000000000,Licence exempt,Radio Determination,1
+13400000000,14000000000,Public sector,Military,1
+13750000000,14000000000,,,0
+13750000000,14000000000,Space Science,Earth Exploration Satellite Service,1
+13750000000,14500000000,Satellite,Satellite (Earth Station)(Non-Geostationary),1
+13750000000,14500000000,Satellite,Satellite (Permanent Earth Station),1
+13780000000,14500000000,Satellite,Satellite (Transportable Earth Station)(high power),1
+13780000000,14500000000,Satellite,Satellite (Transportable Earth Station)(low power),1
+13780000000,14500000000,Satellite,Satellite (Transportable Earth Station)(medium power),1
+14000000000,14250000000,,,0
+14000000000,14250000000,,,0
+14250000000,14300000000,,,0
+14250000000,14500000000,Fixed Links,Point-to-Point Fixed Links,1
+14300000000,14400000000,Space Science,Radio Navigation Satellite Service,1
+14400000000,14470000000,,,0
+14470000000,14500000000,Space Science,Radio Astronomy,1
+14500000000,14620000000,,,0
+14500000000,15350000000,Fixed Links,Point-to-Point Fixed Links,1
+14620000000,15230000000,Public sector,Military,1
+15350000000,15400000000,Space Science,Earth Exploration Satellite Service (passive),1
+15350000000,15400000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+15350000000,15400000000,Space Science,Space Research Service (passive),1
+15400000000,15700000000,Aeronautical,Aeronautical Radar,1
+15400000000,17700000000,Public sector,Military,1
+15500000000,15700000000,Aeronautical,Aircraft,1
+16600000000,17100000000,Space Science,Space Research Service (deep space),1
+17100000000,17300000000,Licence exempt,Radio Determination,1
+17200000000,17300000000,Space Science,Earth Exploration Satellite Service (active),1
+17200000000,17300000000,Space Science,Space Research Service (Active),1
+17300000000,17700000000,Fixed Links,Point-to-Point Fixed Links,1
+17300000000,20200000000,Satellite,Satellite (Permanent Earth Station),1
+17700000000,19700000000,Fixed Links,Point-to-Point Fixed Links,1
+18600000000,18800000000,Space Science,Earth Exploration Satellite Service (passive),1
+18600000000,18800000000,Space Science,Space Research Service (passive),1
+19700000000,20200000000,Satellite,Satellite (Earth Station)(Non-Geostationary),1
+20200000000,21200000000,Public sector,Military,1
+21200000000,21400000000,Space Science,Earth Exploration Satellite Service (passive),1
+21200000000,21400000000,Space Science,Space Research Service (passive),1
+21200000000,22000000000,Fixed Links,Point-to-Point Fixed Links,1
+21200000000,22000000000,Fixed Links,Point-to-Point Fixed Links,1
+21650000000,26650000000,Licence exempt,Automotive Short Range Radar (SRR),1
+22000000000,22210000000,,,0
+22000000000,22210000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+22000000000,23600000000,Fixed Links,Point-to-Point Fixed Links,1
+22210000000,22500000000,Space Science,Earth Exploration Satellite Service (passive),1
+22210000000,22500000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+22210000000,22500000000,Space Science,Space Research Service (passive),1
+22550000000,23150000000,Space Science,Space Research Service (passive),1
+22810000000,22860000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+22810000000,22860000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+23600000000,24000000000,Space Science,Earth Exploration Satellite Service (passive),1
+23600000000,24000000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+23600000000,24000000000,Space Science,Space Research Service (passive),1
+24000000000,24250000000,Amateur,Amateur Radio Full Licence,1
+24000000000,24250000000,Amateur,Amateur Radio Intermediate Licence,1
+24050000000,24150000000,Licence exempt,Radio Determination,1
+24050000000,24150000000,Public sector,Business Radio (Police and Fire),1
+24050000000,24250000000,Licence exempt,Transport and Traffic Telematics,1
+24050000000,27000000000,Licence exempt,Tank Level Probing Radar (TLPR),1
+24100000000,24350000000,Licence exempt,Railway level crossing radar,1
+24150000000,24250000000,Licence exempt,Non-Specific Short Range Devices,1
+24150000000,24250000000,Licence exempt,Radio Determination,1
+24250000000,24350000000,Licence exempt,Radio Determination,1
+24250000000,24500000000,Licence exempt,Transport and Traffic Telematics,1
+24250000000,24500000000,PMSE,Programme Making and Special Events (Fixed Site),1
+24250000000,24500000000,PMSE,Programme Making and Special Events (Link),1
+24250000000,24500000000,PMSE,Programme Making and Special Events (Low Power),1
+24250000000,26500000000,Mobile and Wireless broadband,Shared Access (Low Power),1
+24250000000,26650000000,Licence exempt,Automotive Short Range Radar (SRR),1
+24300000000,27700000000,Licence exempt,Radar Level Gauges,1
+24500000000,26500000000,Fixed Links,Point-to-Point Fixed Links,1
+25500000000,26500000000,,,0
+25500000000,26500000000,Space Science,Earth Exploration Satellite Service,1
+25500000000,27000000000,Space Science,Standard Frequency and Time Signal Satellite,1
+26500000000,27000000000,,,0
+26500000000,27000000000,Space Science,Earth Exploration Satellite Service,1
+26500000000,27500000000,Public sector,Military,1
+27500000000,27818500000,,,0
+27500000000,27818500000,Satellite,Earth Stations on Mobile Platforms (ESOMPs),1
+27500000000,27818500000,Satellite,HDFSS,1
+27500000000,27818500000,Satellite,Satellite (Earth Station)(Non-Fixed Satellite Service),1
+27500000000,27818500000,Satellite,Satellite (Earth Station)(Non-Geostationary),1
+27500000000,27818500000,Satellite,Satellite (Permanent Earth Station),1
+27500000000,27818500000,Satellite,Satellite (Transportable Earth Station)(high power),1
+27500000000,27818500000,Satellite,Satellite (Transportable Earth Station)(low power),1
+27500000000,27818500000,Satellite,Satellite (Transportable Earth Station)(medium power),1
+27818500000,28454500000,Satellite,Satellite (Permanent Earth Station),1
+27828500000,28052500000,Fixed Links,Spectrum Access Arqiva (Uplink),1
+27828500000,28052500000,N/A,Spectrum Access 10 - 40 GHz Band,0
+28052500000,28164500000,Fixed Links,Spectrum Access Telefonica (Uplink),1
+28052500000,28164500000,Fixed Links,Spectrum Access Vodafone (Uplink),1
+28052500000,28444500000,N/A,Broadband Fixed Wireless Access (28 GHz - Guernsey),0
+28052500000,28444500000,N/A,Broadband Fixed Wireless Access (28 GHz - Isle of Man),0
+28052500000,28444500000,N/A,Broadband Fixed Wireless Access (28 GHz - Jersey),0
+28052500000,28444500000,N/A,Spectrum Access 10 - 40 GHz Band,0
+28192500000,28304500000,Fixed Links,FWA Chorus Communications (Uplink),1
+28192500000,28304500000,Fixed Links,Spectrum Access Telefonica (Uplink),1
+28192500000,28304500000,Fixed Links,Spectrum Access UK Broadband (Uplink),1
+28192500000,28304500000,Fixed Links,Spectrum Access Urban Wimax (Uplink),1
+28195000000,28304500000,Fixed Links,Spectrum Access Vodafone (Uplink),1
+28332500000,28444500000,Fixed Links,Spectrum Access UK Broadband (Uplink),1
+28454500000,28826500000,,,0
+28454500000,28826500000,Satellite,Earth Stations on Mobile Platforms (ESOMPs),1
+28454500000,28826500000,Satellite,HDFSS,1
+28454500000,28826500000,Satellite,Satellite (Earth Station)(Non-Fixed Satellite Service),1
+28454500000,28826500000,Satellite,Satellite (Earth Station)(Non-Geostationary),1
+28454500000,28826500000,Satellite,Satellite (Permanent Earth Station),1
+28454500000,28826500000,Satellite,Satellite (Transportable Earth Station)(high power),1
+28454500000,28826500000,Satellite,Satellite (Transportable Earth Station)(low power),1
+28454500000,28826500000,Satellite,Satellite (Transportable Earth Station)(medium power),1
+28500000000,29100000000,Space Science,Earth Exploration Satellite Service,1
+28826500000,29462500000,Satellite,Satellite (Permanent Earth Station),1
+28836500000,29060500000,Fixed Links,Spectrum Access Arqiva (Downlink),1
+28836500000,29060500000,N/A,Spectrum Access 10 - 40 GHz Band,0
+29060500000,29172500000,Fixed Links,Spectrum Access Telefonica (Downlink),1
+29060500000,29172500000,Fixed Links,Spectrum Access Vodafone (Downlink),1
+29060500000,29452500000,N/A,Broadband Fixed Wireless Access (28 GHz - Guernsey),0
+29060500000,29452500000,N/A,Broadband Fixed Wireless Access (28 GHz - Isle of Man),0
+29060500000,29452500000,N/A,Broadband Fixed Wireless Access (28 GHz - Jersey),0
+29060500000,29452500000,N/A,Spectrum Access 10 - 40 GHz Band,0
+29100000000,29500000000,Space Science,Earth Exploration Satellite Service,1
+29200500000,29312500000,Fixed Links,FWA Chorus Communications (Downlink),1
+29200500000,29312500000,Fixed Links,Spectrum Access Telefonica (Downlink),1
+29200500000,29312500000,Fixed Links,Spectrum Access UK Broadband (Downlink),1
+29200500000,29312500000,Fixed Links,Spectrum Access Vodafone (Downlink),1
+29200500000,29312500000,Mobile and Wireless broadband,Spectrum Access Arqiva (Downlink),1
+29340500000,29452500000,Fixed Links,Spectrum Access UK Broadband (Downlink),1
+29462500000,29500000000,Satellite,Satellite (Earth Station)(Non-Fixed Satellite Service),1
+29462500000,30000000000,,,0
+29462500000,30000000000,Satellite,Earth Stations on Mobile Platforms (ESOMPs),1
+29462500000,30000000000,Satellite,HDFSS,1
+29462500000,30000000000,Satellite,Satellite (Earth Station)(Non-Geostationary),1
+29462500000,30000000000,Satellite,Satellite (Permanent Earth Station),1
+29462500000,30000000000,Satellite,Satellite (Transportable Earth Station)(high power),1
+29462500000,30000000000,Satellite,Satellite (Transportable Earth Station)(low power),1
+29462500000,30000000000,Satellite,Satellite (Transportable Earth Station)(medium power),1
+29500000000,29900000000,Space Science,Earth Exploration Satellite Service,1
+29500000000,30000000000,Satellite,Satellite (Earth Station)(Non-Fixed Satellite Service),1
+29900000000,30000000000,Space Science,Earth Exploration Satellite Service,1
+30000000000,31000000000,Public sector,Military,1
+31000000000,31300000000,,,0
+31000000000,31300000000,Fixed Links,Point-to-Point Security CCTV Services,1
+31000000000,31300000000,Space Science,Standard Frequency and Time Signal Satellite,1
+31300000000,31500000000,Space Science,Earth Exploration Satellite Service (passive),1
+31300000000,31500000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+31300000000,31500000000,Space Science,Space Research Service (passive),1
+31500000000,31800000000,Fixed Links,Point-to-Point Security CCTV Services,1
+31500000000,31800000000,Space Science,Earth Exploration Satellite Service (passive),1
+31500000000,31800000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+31500000000,31800000000,Space Science,Space Research Service (passive),1
+31800000000,32000000000,Space Science,Space Research Service (deep space),1
+31815000000,32067000000,Mobile and Wireless broadband,Spectrum Access EE (Uplink),1
+31815000000,32571000000,N/A,Spectrum Access 10 - 40 GHz Band,0
+32000000000,32300000000,Space Science,Space Research Service (deep space),1
+32067000000,32319000000,Fixed Links,Spectrum Access Mobile Broadband Network Limited (Uplink),1
+32319000000,32445000000,Mobile and Wireless broadband,Spectrum Access British Telecom (Uplink),1
+32445000000,32571000000,Fixed Links,Spectrum Access MLL Telecom (Uplink),1
+32627000000,32879000000,Mobile and Wireless broadband,Spectrum Access EE (Downlink),1
+32627000000,33383000000,N/A,Spectrum Access 10 - 40 GHz Band,0
+32879000000,33131000000,Fixed Links,Spectrum Access Mobile Broadband Network Limited (Downlink),1
+33131000000,33257000000,Mobile and Wireless broadband,Spectrum Access British Telecom (Downlink),1
+33257000000,33383000000,Fixed Links,Spectrum Access MLL Telecom (Downlink),1
+33400000000,36000000000,Public sector,Military,1
+34200000000,34700000000,Space Science,Space Research Service (deep space),1
+34700000000,35200000000,,,0
+35000000000,36000000000,Space Science,Space Research Service (Active),1
+35500000000,36000000000,Space Science,Earth Exploration Satellite Service (active),1
+36000000000,37000000000,Public sector,Military,1
+36000000000,37000000000,Space Science,Earth Exploration Satellite Service (passive),1
+36000000000,37000000000,Space Science,Space Research Service (passive),1
+37000000000,37500000000,,,0
+37000000000,39500000000,Fixed Links,Point-to-Point Fixed Links,1
+37500000000,38000000000,,,0
+37500000000,38000000000,Space Science,Earth Exploration Satellite Service,1
+38000000000,39500000000,Space Science,Earth Exploration Satellite Service,1
+39500000000,40000000000,Space Science,Earth Exploration Satellite Service,1
+39500000000,40500000000,Public sector,Military,1
+40000000000,40500000000,,,0
+40000000000,40500000000,Space Science,Earth Exploration Satellite Service,1
+40500000000,40750000000,Fixed Links,Spectrum Access Mobile Broadband Network Limited (Uplink),1
+40500000000,43500000000,N/A,Spectrum Access 10 - 40 GHz Band,0
+40750000000,41000000000,Fixed Links,Spectrum Access MLL Telecom (Uplink),1
+41000000000,42000000000,Mobile and Wireless broadband,Spectrum Access UK Broadband (Uplink),1
+42000000000,42250000000,Fixed Links,Spectrum Access Mobile Broadband Network Limited (Downlink),1
+42250000000,42500000000,Fixed Links,Spectrum Access MLL Telecom (Downlink),1
+42500000000,43500000000,Mobile and Wireless broadband,Spectrum Access UK Broadband (Downlink),1
+42500000000,43500000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+43500000000,45500000000,Public sector,Military,1
+45500000000,47000000000,Space Science,Radio Navigation Satellite Service,1
+47000000000,47200000000,Amateur,Amateur Radio Full Licence,1
+47000000000,47200000000,Amateur,Amateur Radio Intermediate Licence,1
+48000000000,48400000000,PMSE,Programme Making and Special Events (Fixed Site),1
+48000000000,48400000000,PMSE,Programme Making and Special Events (Link),1
+48000000000,48400000000,PMSE,Programme Making and Special Events (Low Power),1
+48940000000,49040000000,Space Science,Recognised Spectrum Access (Radio Astronomy),1
+49200000000,50200000000,Fixed Links,Point-to-Point Fixed Links,1
+50200000000,50400000000,,,0
+50200000000,50400000000,Space Science,Earth Exploration Satellite Service (passive),1
+50400000000,51200000000,Public sector,Military,1
+51200000000,51400000000,Public sector,Business Radio (Police and Fire),1
+51400000000,52600000000,Fixed Links,Point-to-Point Fixed Links,1
+51400000000,54250000000,Space Science,Radio Astronomy,1
+52600000000,54250000000,Space Science,Earth Exploration Satellite Service (passive),1
+52600000000,54250000000,Space Science,Space Research Service (passive),1
+54250000000,55780000000,Space Science,Earth Exploration Satellite Service (passive),1
+54250000000,55780000000,Space Science,Space Research Service (passive),1
+55780000000,56900000000,Space Science,Earth Exploration Satellite Service (passive),1
+55780000000,56900000000,Space Science,Space Research Service (passive),1
+55780000000,57000000000,Fixed Links,Point-to-Point Fixed Links,1
+56900000000,57000000000,Space Science,Earth Exploration Satellite Service (passive),1
+56900000000,57000000000,Space Science,Space Research Service (passive),1
+57000000000,58200000000,Space Science,Earth Exploration Satellite Service (passive),1
+57000000000,58200000000,Space Science,Space Research Service (passive),1
+57000000000,64000000000,Fixed Links,Fixed Wireless Systems (57.1 - 63.9 GHz),1
+57000000000,64000000000,Licence exempt,Non-Specific Short Range Devices,1
+57000000000,64000000000,Licence exempt,Tank Level Probing Radar (TLPR),1
+57000000000,71000000000,Licence exempt,Wideband Data Transmission Devices,1
+57000000000,71000000000,Mobile and Wireless broadband,Spectrum Access (EHF),1
+58200000000,59000000000,Space Science,Earth Exploration Satellite Service (passive),1
+58200000000,59000000000,Space Science,Radio Astronomy,1
+58200000000,59000000000,Space Science,Space Research Service (passive),1
+59000000000,59300000000,Space Science,Earth Exploration Satellite Service (passive),1
+59000000000,59300000000,Space Science,Space Research Service (passive),1
+59000000000,64000000000,Public sector,Military,1
+61000000000,61500000000,Licence exempt,Non-Specific Short Range Devices,1
+63000000000,64000000000,Licence exempt,Transport and Traffic Telematics,1
+64000000000,65000000000,Space Science,Radio Astronomy,1
+64000000000,66000000000,Fixed Links,Self co-ordinated links,1
+65000000000,66000000000,,,0
+65000000000,66000000000,Space Science,Earth Exploration Satellite Service,1
+66000000000,71000000000,Space Science,Radio Navigation Satellite Service,1
+71000000000,71125000000,Fixed Links,Point-to-Point Fixed Links,1
+71000000000,74000000000,Public sector,Military,1
+71125000000,73125000000,Fixed Links,Point-to-Point Fixed Links,1
+71125000000,73125000000,Fixed Links,Self co-ordinated links,1
+73125000000,73375000000,Fixed Links,Point-to-Point Fixed Links,1
+73375000000,75875000000,Fixed Links,Self co-ordinated links,1
+74000000000,75500000000,,,0
+75000000000,85000000000,Licence exempt,Tank Level Probing Radar (TLPR),1
+75500000000,76000000000,,,0
+75500000000,81000000000,Amateur,Amateur Radio Full Licence,1
+75500000000,81000000000,Amateur,Amateur Radio Intermediate Licence,1
+76000000000,77000000000,Licence exempt,Transport and Traffic Telematics,1
+76000000000,77500000000,,,0
+76000000000,77500000000,Space Science,Radio Astronomy,1
+77000000000,81000000000,Licence exempt,Automotive Short Range Radar (SRR),1
+77000000000,81000000000,Licence exempt,Transport and Traffic Telematics,1
+77500000000,78000000000,,,0
+77500000000,79000000000,Space Science,Radio Astronomy,1
+78000000000,79000000000,,,0
+78000000000,79000000000,Public sector,Military,1
+79000000000,81000000000,,,0
+79000000000,84000000000,Public sector,Military,1
+79000000000,86000000000,Space Science,Radio Astronomy,1
+81000000000,84000000000,,,0
+81125000000,83125000000,Fixed Links,Point-to-Point Fixed Links,1
+81125000000,83125000000,Fixed Links,Self co-ordinated links,1
+83375000000,85875000000,Fixed Links,Self co-ordinated links,1
+86000000000,92000000000,Space Science,Earth Exploration Satellite Service (passive),1
+86000000000,92000000000,Space Science,Radio Astronomy,1
+86000000000,92000000000,Space Science,Space Research Service (passive),1
+92000000000,94000000000,Space Science,Radio Astronomy,1
+92000000000,95000000000,Public sector,Military,1
+94000000000,94100000000,Space Science,Earth Exploration Satellite Service (active),1
+94000000000,94100000000,Space Science,Radio Astronomy,1
+94000000000,94100000000,Space Science,Space Research Service (Active),1
+94100000000,116250000000,Space Science,Radio Astronomy,1
+95000000000,100000000000,Space Science,Radio Navigation Satellite Service,1
+100000000000,102000000000,Space Science,Earth Exploration Satellite Service (passive),1
+100000000000,102000000000,Space Science,Space Research Service (passive),1
+105000000000,109500000000,Space Science,Space Research Service (passive),1
+109500000000,111800000000,Space Science,Earth Exploration Satellite Service (passive),1
+109500000000,111800000000,Space Science,Space Research Service (passive),1
+111800000000,114250000000,Space Science,Space Research Service (passive),1
+114250000000,116000000000,Space Science,Earth Exploration Satellite Service (passive),1
+114250000000,116000000000,Space Science,Space Research Service (passive),1
+116000000000,119980000000,Space Science,Earth Exploration Satellite Service (passive),1
+116000000000,122000000000,Mobile and Wireless broadband,Spectrum Access (EHF),1
+119980000000,122250000000,Space Science,Earth Exploration Satellite Service (passive),1
+119980000000,122250000000,Space Science,Space Research Service (passive),1
+122000000000,123000000000,Licence exempt,Non-Specific Short Range Devices,1
+122250000000,123000000000,Amateur,Amateur Radio Full Licence,1
+122250000000,123000000000,Amateur,Amateur Radio Intermediate Licence,1
+123000000000,130000000000,Space Science,Radio Astronomy,1
+123000000000,130000000000,Space Science,Radio Navigation Satellite Service,1
+130000000000,134000000000,Space Science,Earth Exploration Satellite Service (active),1
+130000000000,134000000000,Space Science,Radio Astronomy,1
+134000000000,136000000000,Space Science,Radio Astronomy,1
+134000000000,141000000000,Amateur,Amateur Radio Intermediate Licence,1
+136000000000,148500000000,Space Science,Radio Astronomy,1
+148500000000,151500000000,Space Science,Earth Exploration Satellite Service (passive),1
+148500000000,151500000000,Space Science,Radio Astronomy,1
+148500000000,151500000000,Space Science,Space Research Service (passive),1
+151000000000,158500000000,Space Science,Radio Astronomy,1
+155500000000,158500000000,Space Science,Earth Exploration Satellite Service (passive),1
+155500000000,158500000000,Space Science,Space Research Service (passive),1
+164000000000,167000000000,Space Science,Earth Exploration Satellite Service (passive),1
+164000000000,167000000000,Space Science,Radio Astronomy,1
+164000000000,167000000000,Space Science,Space Research Service (passive),1
+174800000000,182000000000,Mobile and Wireless broadband,Spectrum Access (EHF),1
+174800000000,182000000000,Space Science,Earth Exploration Satellite Service (passive),1
+174800000000,182000000000,Space Science,Space Research Service (passive),1
+182000000000,185000000000,Space Science,Earth Exploration Satellite Service (passive),1
+182000000000,185000000000,Space Science,Radio Astronomy,1
+182000000000,185000000000,Space Science,Space Research Service (passive),1
+185000000000,190000000000,Space Science,Earth Exploration Satellite Service (passive),1
+185000000000,190000000000,Space Science,Space Research Service (passive),1
+190000000000,191800000000,Space Science,Earth Exploration Satellite Service (passive),1
+190000000000,191800000000,Space Science,Space Research Service (passive),1
+191800000000,200000000000,Space Science,Radio Navigation Satellite Service,1
+200000000000,202000000000,Space Science,Earth Exploration Satellite Service (passive),1
+200000000000,202000000000,Space Science,Space Research Service (passive),1
+200000000000,217000000000,Space Science,Radio Astronomy,1
+202000000000,209000000000,Space Science,Earth Exploration Satellite Service (passive),1
+202000000000,209000000000,Space Science,Space Research Service (passive),1
+217000000000,226000000000,Space Science,Space Research Service (passive),1
+226000000000,231500000000,Space Science,Earth Exploration Satellite Service (passive),1
+226000000000,231500000000,Space Science,Radio Astronomy,1
+226000000000,231500000000,Space Science,Space Research Service (passive),1
+235000000000,238000000000,Space Science,Earth Exploration Satellite Service (passive),1
+235000000000,238000000000,Space Science,Space Research Service (passive),1
+238000000000,240000000000,Space Science,Radio Navigation Satellite Service,1
+241000000000,248000000000,Space Science,Radio Astronomy,1
+241000000000,250000000000,Amateur,Amateur Radio Full Licence,1
+241000000000,250000000000,Amateur,Amateur Radio Intermediate Licence,1
+244000000000,246000000000,Licence exempt,Non-Specific Short Range Devices,1
+248000000000,250000000000,Space Science,Radio Astronomy,1
+250000000000,252000000000,Space Science,Earth Exploration Satellite Service (passive),1
+250000000000,252000000000,Space Science,Space Research Service (passive),1
+250000000000,275000000000,Space Science,Radio Astronomy,1
+252000000000,265000000000,Space Science,Radio Navigation Satellite Service,1
