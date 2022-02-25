@@ -3,12 +3,9 @@ Frequency,Sector,Product name
 412 - 414 MHz,Mobile and Wireless broadband,Spectrum Access Arqiva and Airwave (Uplink)
 422 - 424 MHz,Mobile and Wireless broadband,Spectrum Access Arqiva and Airwave (Downlink)
 703 - 713 MHz,Mobile and Wireless broadband,Spectrum Access Telefonica (Uplink)
-703 - 733 MHz,Mobile and Wireless Broadband,Spectrum Access (700 MHz)
 713 - 723 MHz,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Uplink)
 723 - 733 MHz,Mobile and Wireless broadband,Spectrum Access EE (Uplink)
-738 - 758 MHz,Mobile and Wireless Broadband,Spectrum Access (700 MHz)
 758 - 768 MHz,Mobile and Wireless broadband,Spectrum Access Telefonica (Downlink)
-758 - 788 MHz,Mobile and Wireless Broadband,Spectrum Access (700 MHz)
 778 - 788 MHz,Mobile and Wireless broadband,Spectrum Access EE (Downlink)
 791 - 796 MHz,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Downlink)
 791 - 796 MHz,Mobile and Wireless broadband,Spectrum Access Hutchison 3G (Downlink)
@@ -78,7 +75,6 @@ Frequency,Sector,Product name
 3.58 - 3.6 GHz,Mobile and Wireless broadband,Spectrum Access UK Broadband
 3.6 - 3.68 GHz,Mobile and Wireless broadband,Spectrum Access UK Broadband
 3.68 - 3.72 GHz,Mobile and Wireless broadband,Spectrum Access EE
-3.68 - 3.8 GHz,Mobile and Wireless Broadband,Spectrum Access (3.6-3.8 MHz)
 3.72 - 3.76 GHz,Mobile and Wireless broadband,Spectrum Access Telefonica
 3.72 - 3.76 GHz,Mobile and Wireless broadband,Spectrum Access Vodafone
 3.76 - 3.8 GHz,Mobile and Wireless broadband,Spectrum Access Telefonica
@@ -86,3 +82,14 @@ Frequency,Sector,Product name
 3.8 - 4.2 GHz,Mobile and Wireless broadband,Shared Access (Medium Power)
 3.925 - 4.009 GHz,Mobile and Wireless broadband,Spectrum Access UK Broadband
 5.725 - 5.85 GHz,Mobile and Wireless broadband,Fixed Wireless Access (5.8 GHz band)
+24.25 - 26.5 GHz,Mobile and Wireless broadband,Shared Access (Low Power)
+29.2005 - 29.3125 GHz,Mobile and Wireless broadband,Spectrum Access Arqiva (Downlink)
+31.815 - 32.067 GHz,Mobile and Wireless broadband,Spectrum Access EE (Uplink)
+32.319 - 32.445 GHz,Mobile and Wireless broadband,Spectrum Access British Telecom (Uplink)
+32.627 - 32.879 GHz,Mobile and Wireless broadband,Spectrum Access EE (Downlink)
+33.131 - 33.257 GHz,Mobile and Wireless broadband,Spectrum Access British Telecom (Downlink)
+41 - 42 GHz,Mobile and Wireless broadband,Spectrum Access UK Broadband (Uplink)
+42.5 - 43.5 GHz,Mobile and Wireless broadband,Spectrum Access UK Broadband (Downlink)
+57 - 71 GHz,Mobile and Wireless broadband,Spectrum Access (EHF)
+116 - 122 GHz,Mobile and Wireless broadband,Spectrum Access (EHF)
+174.8 - 182 GHz,Mobile and Wireless broadband,Spectrum Access (EHF)
