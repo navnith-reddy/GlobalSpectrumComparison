@@ -17,7 +17,9 @@ Spectrum licencing practices vary between nations, especially in regards to the 
 
 ## Data Processing
 
-The data in this repository has been processed to meet certain criteria outlined in the notebooks. The raw data has been obtained from each nations spectrum planning agency website and has been processed using the pandas software library.
+The data in this repository has been processed to meet certain criteria outlined in the notebooks. The raw data has been obtained from each nations spectrum planning agency website and has been processed using the pandas software library. The notebooks contained in this repository will not compile without source data which have been excluded from the repository.
+
+> In order to compile notebooks on local machines, users must acquire source datasets independently. Further instructions are provided in each notebook regarding the process.
 
 ## Data Visualisation
 
