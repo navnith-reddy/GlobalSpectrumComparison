@@ -27,6 +27,10 @@ The data in this repository has been processed to meet certain criteria outlined
 
 Frequency allocations have been represented in interactive treemaps. The treemaps were created using the plotly software library. Treemaps are an effective way to represent hierarchical data and may allow the visualisation of spectrum utilisation as well as licence locations.
 
+## Issues with Datasets
+
+The WTR, RLL and UK Spectrum map datasets are imperfect and limit the possibilities of data processing. The WTR is missing many spectrum licences for WBA. The RRL has licence information for very specific geographic locations detailed by HCIS identifiers which results in location specific spectrum utilisation. Any attempt of generalising the information results in practically useless treemaps. The UK spectrum map dataset contains overlapping licences primarily due to shared access allocations, resulting in greater than 100% of certain sections of spectrum. While the technical specifications of Shared Access don't imply interference, the resulting dataset would suggest otherwise.
+
 ## Compile Notes
 
 In order compile the notebooks in this repository, you will require python3 and must install the following packages:
